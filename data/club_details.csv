@@ -1,0 +1,561 @@
+club_name,club_logo,club_link,league
+Liverpool,https://static.bongda24h.vn/Medias/icon/2020/7/23/Liverpool.png,https://bongda24h.vn/clubs/liverpool-2.html,Premier League
+Arsenal,https://static.bongda24h.vn/Medias/icon/2020/7/23/Arsenal.png,https://bongda24h.vn/clubs/arsenal-4.html,Premier League
+Aston Villa,https://static.bongda24h.vn/Medias/icon/2023/12/11/aston_villa_fc_logo-1112151901.png,https://bongda24h.vn/clubs/aston-villa-8.html,Premier League
+Man City,https://static.bongda24h.vn/Medias/icon/2017/6/26/manchester-city.jpg,https://bongda24h.vn/clubs/man-city-1471.html,Premier League
+Tottenham,https://static.bongda24h.vn/Medias/icon/2020/7/23/Totenham.png,https://bongda24h.vn/clubs/tottenham-5.html,Premier League
+Man United,https://static.bongda24h.vn/Medias/icon/2020/7/23/ManUnited.png,https://bongda24h.vn/clubs/manchester-united-1.html,Premier League
+Newcastle,https://static.bongda24h.vn/Medias/icon/2020/7/27/Newcastle.jpg,https://bongda24h.vn/clubs/newcastle-united-1393.html,Premier League
+Brighton,https://static.bongda24h.vn/Medias/icon/2017/8/3/logo-brighton-hove-albion.jpg,https://bongda24h.vn/clubs/brighton-2269.html,Premier League
+West Ham,https://static.bongda24h.vn/Medias/icon/2020/8/12/West-Ham.png,https://bongda24h.vn/clubs/west-ham-1494.html,Premier League
+Fulham,https://static.bongda24h.vn/Medias/icon/Fulham.png,https://bongda24h.vn/clubs/fulham-9.html,Premier League
+Brentford,https://static.bongda24h.vn/Medias/icon/2022/09/27/brentford-2709105306.png,https://bongda24h.vn/clubs/brentford-1617.html,Premier League
+Chelsea,https://static.bongda24h.vn/Medias/icon/2020/7/23/Chelsea.png,https://bongda24h.vn/clubs/chelsea-6.html,Premier League
+Wolves,https://static.bongda24h.vn/Medias/icon/2020/8/12/Wolves.png,https://bongda24h.vn/clubs/wolverhampton-1458.html,Premier League
+Bournemouth,https://static.bongda24h.vn/Medias/icon/2020/7/27/Bournemouth.png,https://bongda24h.vn/clubs/bournemouth-1524.html,Premier League
+Crystal Palace,https://static.bongda24h.vn/Medias/icon/2020/7/27/CrystalPalace.png,https://bongda24h.vn/clubs/crystal-palace-1265.html,Premier League
+Nottingham Forest,https://static.bongda24h.vn/Medias/icon/NottmForest_20141014180135.jpg,https://bongda24h.vn/clubs/nottingham-forest-1452.html,Premier League
+Everton,https://static.bongda24h.vn/Medias/icon/2020/8/11/Everton.png,https://bongda24h.vn/clubs/everton-3.html,Premier League
+Luton Town,https://static.bongda24h.vn/Medias/icon/2022/09/27/luton-2709154314.png,https://bongda24h.vn/clubs/luton-town-2534.html,Premier League
+Burnley,https://static.bongda24h.vn/Medias/icon/2023/06/16/burnley-1606092510.jpg,https://bongda24h.vn/clubs/burnley-1271.html,Premier League
+Sheffield United,https://static.bongda24h.vn/Medias/icon/2020/8/12/Sheffield-United.png,https://bongda24h.vn/clubs/sheffield-united-2437.html,Premier League
+Leicester,https://static.bongda24h.vn/Medias/icon/2017/6/26/leicester.jpg,https://bongda24h.vn/clubs/leicester-city-1453.html,Hạng nhất Anh
+Ipswich Town,https://static.bongda24h.vn/Medias/icon/Ipswich_20141014175534.png,https://bongda24h.vn/clubs/ipswich-town-1455.html,Hạng nhất Anh
+Leeds United,https://static.bongda24h.vn/Medias/icon/Leeds_20141014175710.jpg,https://bongda24h.vn/clubs/leeds-united-1454.html,Hạng nhất Anh
+Southampton,https://static.bongda24h.vn/Medias/icon/2020/7/27/Southampton.png,https://bongda24h.vn/clubs/southampton-1148.html,Hạng nhất Anh
+West Brom,https://static.bongda24h.vn/Medias/icon/2017/6/26/west-brom.jpg,https://bongda24h.vn/clubs/west-bromwich-1499.html,Hạng nhất Anh
+Sunderland,https://static.bongda24h.vn/Medias/icon/Sunderland_20141015200458.png,https://bongda24h.vn/clubs/sunderland-10.html,Hạng nhất Anh
+Hull City,https://static.bongda24h.vn/Medias/icon/Hull_20141014175105.png,https://bongda24h.vn/clubs/hull-1460.html,Hạng nhất Anh
+Preston North End,https://static.bongda24h.vn/Medias/icon/2022/09/28/preston-north-2809091951.png,https://bongda24h.vn/clubs/preston-north-end-2536.html,Hạng nhất Anh
+Blackburn Rovers,https://static.bongda24h.vn/Medias/icon/2023/03/13/blackburns-1303161247.png,https://bongda24h.vn/clubs/blackburn-1450.html,Hạng nhất Anh
+Cardiff City,https://static.bongda24h.vn/Medias/icon/2022/09/28/cardiff-2809095039.png,https://bongda24h.vn/clubs/cardiff-city-1461.html,Hạng nhất Anh
+Norwich City,https://static.bongda24h.vn/Medias/icon/2020/8/12/Norwich.png,https://bongda24h.vn/clubs/norwich-city-1496.html,Hạng nhất Anh
+Watford,https://static.bongda24h.vn/Medias/icon/2020/8/12/Watford.png,https://bongda24h.vn/clubs/watford-1269.html,Hạng nhất Anh
+Middlesbrough,https://static.bongda24h.vn/Medias/icon/Middlesbrough_20141015093102.jpg,https://bongda24h.vn/clubs/middlesbrough-1277.html,Hạng nhất Anh
+Coventry City,https://static.bongda24h.vn/Medias/icon/2023/03/13/coventry-1303161446.png,https://bongda24h.vn/clubs/coventry-city-2535.html,Hạng nhất Anh
+Bristol City,https://static.bongda24h.vn/Medias/icon/2022/09/27/bristol_city-2709153150.png,https://bongda24h.vn/clubs/bristol-city-2008.html,Hạng nhất Anh
+Birmingham City,https://static.bongda24h.vn/Medias/icon/Birmingham_20141014180448.jpg,https://bongda24h.vn/clubs/birmingham-1449.html,Hạng nhất Anh
+Swansea,https://static.bongda24h.vn/Medias/icon/Swansea_20141014173644.jpg,https://bongda24h.vn/clubs/swansea-city-1498.html,Hạng nhất Anh
+Plymouth Argyle,https://static.bongda24h.vn/Medias/icon/2023/04/14/plymouth-argyle-1404092245.png,https://bongda24h.vn/clubs/plymouth-argyle-2574.html,Hạng nhất Anh
+Stoke City,https://static.bongda24h.vn/Medias/icon/2017/6/26/stoke-city.jpg,https://bongda24h.vn/clubs/stoke-1497.html,Hạng nhất Anh
+Millwall,https://static.bongda24h.vn/Medias/icon/Millwall_20141015093336.jpg,https://bongda24h.vn/clubs/millwall-1274.html,Hạng nhất Anh
+Huddersfield,https://static.bongda24h.vn/Medias/icon/Huddersfield.png,https://bongda24h.vn/clubs/huddersfield-1619.html,Hạng nhất Anh
+Queens Park,https://static.bongda24h.vn/Medias/icon/QPR_20141014143124.png,https://bongda24h.vn/clubs/queens-park-rangers-1495.html,Hạng nhất Anh
+Sheffield Wednesday,https://static.bongda24h.vn/Medias/icon/SheffWed_20141014144321.png,https://bongda24h.vn/clubs/sheffield-wednesday-1459.html,Hạng nhất Anh
+Rotherham United,https://static.bongda24h.vn/Medias/icon/RotherhamUtd_20141014162721.jpg,https://bongda24h.vn/clubs/rotherham-united-1618.html,Hạng nhất Anh
+Nam Định,https://static.bongda24h.vn/Medias/icon/2020/7/23/Duoc-Nam-Ha-Nam-Dinh.png,https://bongda24h.vn/clubs/nam-dinh-2291.html,V-League
+Thanh Hóa,https://static.bongda24h.vn/Medias/icon/2021/1/11/thanh-hoa.png,https://bongda24h.vn/clubs/thanh-hoa-1969.html,V-League
+Bình Dương,https://static.bongda24h.vn/Medias/icon/2020/12/14/142641-binh-duong.jpg,https://bongda24h.vn/clubs/binh-duong-1981.html,V-League
+CAHN,https://static.bongda24h.vn/Medias/icon/2023/01/05/logo-cong-an-ha-noi-0501091850.jpg,https://bongda24h.vn/clubs/cong-an-ha-noi-3172.html,V-League
+Hải Phòng,https://static.bongda24h.vn/Medias/icon/2022/1/7/haiphong.png,https://bongda24h.vn/clubs/hai-phong-1974.html,V-League
+TPHCM,https://static.bongda24h.vn/Medias/icon/2023/02/01/tphcm-0102135857.png,https://bongda24h.vn/clubs/tp-ho-chi-minh-2209.html,V-League
+Viettel,https://static.bongda24h.vn/Medias/icon/2021/3/11/logo-viettel-fc-jpg.jpg,https://bongda24h.vn/clubs/the-cong-viettel-1655.html,V-League
+Bình Định,https://static.bongda24h.vn/Medias/icon/2020/10/2/lo-go-binh-dinh.jpg,https://bongda24h.vn/clubs/binh-dinh-2543.html,V-League
+Quảng Nam,https://static.bongda24h.vn/Medias/icon/2020/7/23/CLB-Quang-Nam.png,https://bongda24h.vn/clubs/quang-nam-1972.html,V-League
+Hà Nội,https://static.bongda24h.vn/Medias/icon/2023/04/10/logo-ha-noi-1004093102.jpg,https://bongda24h.vn/clubs/ha-noi-1979.html,V-League
+SLNA,https://static.bongda24h.vn/Medias/icon/2022/07/08/logo-clb-slna_0807102849.png,https://bongda24h.vn/clubs/song-lam-nghe-an-1973.html,V-League
+Khánh Hòa,https://static.bongda24h.vn/Medias/icon/2020/12/14/khanh-hoa.jpg,https://bongda24h.vn/clubs/khanh-hoa-1976.html,V-League
+Hà Tĩnh,https://static.bongda24h.vn/Medias/icon/2020/7/23/HongLinhHT.png,https://bongda24h.vn/clubs/ha-tinh-2513.html,V-League
+HAGL,https://static.bongda24h.vn/Medias/icon/2020/7/23/171405-Hoang-Anh-Gia-Lai.png,https://bongda24h.vn/clubs/hagl-1975.html,V-League
+Đà Nẵng,https://static.bongda24h.vn/Medias/icon/2020/12/21/logo-shb-da-nang.jpg,https://bongda24h.vn/clubs/da-nang-1970.html,Hạng nhất Việt Nam
+Leverkusen,https://static.bongda24h.vn/Medias/icon/Leverkusen_20141014150107.png,https://bongda24h.vn/clubs/leverkusen-1398.html,Bundesliga
+Munich,https://static.bongda24h.vn/Medias/icon/2020/7/23/BayernMuchen.png,https://bongda24h.vn/clubs/bayern-munich-1567.html,Bundesliga
+Stuttgart,https://static.bongda24h.vn/Medias/icon/Stuttgart_20141015125029.jpg,https://bongda24h.vn/clubs/stuttgart-72.html,Bundesliga
+RB Leipzig,https://static.bongda24h.vn/Medias/icon/RBLeipzig_20141014163624.jpg,https://bongda24h.vn/clubs/leipzig-1616.html,Bundesliga
+Dortmund,https://static.bongda24h.vn/Medias/icon/2020/7/23/Borussia-Dortmund.png,https://bongda24h.vn/clubs/borussia-dortmund-62.html,Bundesliga
+Hoffenheim,https://static.bongda24h.vn/Medias/icon/Hoffenheim_20141015124522.png,https://bongda24h.vn/clubs/hoffenheim-79.html,Bundesliga
+E.Frankfurt,https://static.bongda24h.vn/Medias/icon/E.Frankfurt_20141014143618.png,https://bongda24h.vn/clubs/frankfurt-1484.html,Bundesliga
+Freiburg,https://static.bongda24h.vn/Medias/icon/Freiburg_20141015125419.jpg,https://bongda24h.vn/clubs/freiburg-63.html,Bundesliga
+Gladbach,https://static.bongda24h.vn/Medias/icon/M.Gladbach_20141014150204.png,https://bongda24h.vn/clubs/monchengladbach-1394.html,Bundesliga
+Augsburg,https://static.bongda24h.vn/Medias/icon/Augsburg_20141015124616.png,https://bongda24h.vn/clubs/augsburg-76.html,Bundesliga
+Wolfsburg,https://static.bongda24h.vn/Medias/icon/Wolfsburg_20141015124933.jpg,https://bongda24h.vn/clubs/wolfsburg-73.html,Bundesliga
+Bremen,https://static.bongda24h.vn/Medias/icon/W.Bremen_20141014143642.png,https://bongda24h.vn/clubs/bremen-1483.html,Bundesliga
+FC Heidenheim,https://static.bongda24h.vn/Medias/icon/Heidenheimer_20141014163840.png,https://bongda24h.vn/clubs/1.fc-heidenheim-1846-1615.html,Bundesliga
+Bochum,https://static.bongda24h.vn/Medias/icon/Bochum_20141015102950.jpg,https://bongda24h.vn/clubs/bochum-1207.html,Bundesliga
+Union Berlin,https://static.bongda24h.vn/Medias/icon/UnionBerlin_20141015102919.jpg,https://bongda24h.vn/clubs/union-berlin-1208.html,Bundesliga
+FC Cologne,https://static.bongda24h.vn/Medias/icon/2021/8/18/1-fc-koln-hd-logo.jpg,https://bongda24h.vn/clubs/fc-koeln-2524.html,Bundesliga
+Mainz,https://static.bongda24h.vn/Medias/icon/Mainz_20141014143737.png,https://bongda24h.vn/clubs/mainz-1479.html,Bundesliga
+Darmstadt,https://static.bongda24h.vn/Medias/icon/Darmstadt_20141014163942.png,https://bongda24h.vn/clubs/sv-darmstadt-98-1614.html,Bundesliga
+St. Pauli,https://static.bongda24h.vn/Medias/icon/St.Pauli_20141014145404.png,https://bongda24h.vn/clubs/st.pauli-1424.html,Hạng 2 Đức
+Holstein Kiel,https://static.bongda24h.vn/Medias/icon/2022/11/05/holstein_kiel-0511154859.png,https://bongda24h.vn/clubs/holstein-kiel-2532.html,Hạng 2 Đức
+Greuther Furth,https://static.bongda24h.vn/Medias/icon/G.Furth_20141014143602.png,https://bongda24h.vn/clubs/greuther-furth-1485.html,Hạng 2 Đức
+Hamburger SV,https://static.bongda24h.vn/Medias/icon/Hamburg_20141014143700.png,https://bongda24h.vn/clubs/hamburger-sv-1480.html,Hạng 2 Đức
+Fortuna Dusseldorf,https://static.bongda24h.vn/Medias/icon/2022/11/05/fortuna_dusseldorf-0511152909.png,https://bongda24h.vn/clubs/fortuna-dusseldorf-2508.html,Hạng 2 Đức
+Paderborn,https://static.bongda24h.vn/Medias/icon/Paderborn_20141015102314.png,https://bongda24h.vn/clubs/paderborn-1214.html,Hạng 2 Đức
+Hannover 96,https://static.bongda24h.vn/Medias/icon/Hannover_20141014145909.png,https://bongda24h.vn/clubs/hannover-1404.html,Hạng 2 Đức
+Berlin,https://static.bongda24h.vn/Medias/icon/HerthaBerlin_20141014145341.png,https://bongda24h.vn/clubs/hertha-bsc-1425.html,Hạng 2 Đức
+Elversberg,https://static.bongda24h.vn/Medias/icon/2023/04/14/elversberg-1404142908.jpg,https://bongda24h.vn/clubs/elversberg-2819.html,Hạng 2 Đức
+1. FC Nuremberg,https://static.bongda24h.vn/Medias/icon/2022/11/06/nuernberg-0611170249.png,https://bongda24h.vn/clubs/1.-fc-nuremberg-7718.html,Hạng 2 Đức
+Wehen Wiesbaden,https://static.bongda24h.vn/Medias/icon/2023/06/18/wehen-wiesbaden-1806142040.jpg,https://bongda24h.vn/clubs/wehen-wiesbaden-6510.html,Hạng 2 Đức
+Magdeburg,https://static.bongda24h.vn/Medias/icon/2023/03/13/magdeburg-1303162010.png,https://bongda24h.vn/clubs/magdeburg-2824.html,Hạng 2 Đức
+Schalke 04,https://static.bongda24h.vn/Medias/icon/Schalke04_20141014144125.png,https://bongda24h.vn/clubs/schalke-04-65.html,Hạng 2 Đức
+Karlsruher SC,https://static.bongda24h.vn/Medias/icon/2022/11/05/karlsruher-0511161109.png,https://bongda24h.vn/clubs/karlsruher-sc-2526.html,Hạng 2 Đức
+Kaiserslautern,https://static.bongda24h.vn/Medias/icon/Kaiserslautern_20141016092415.jpg,https://bongda24h.vn/clubs/kaiserslautern-67.html,Hạng 2 Đức
+Hansa Rostock,https://static.bongda24h.vn/Medias/icon/2022/11/05/hansa_rostock-0511174432.png,https://bongda24h.vn/clubs/hansa-rostock-2821.html,Hạng 2 Đức
+Eintracht Braunschweig,https://static.bongda24h.vn/Medias/icon/2023/03/13/eintracht-braunschweig-1303162431.png,https://bongda24h.vn/clubs/eintracht-braunschweig-2529.html,Hạng 2 Đức
+VfL Osnabrück,https://static.bongda24h.vn/Medias/icon/2023/06/18/vfl-osnabruck-1806141812.jpg,https://bongda24h.vn/clubs/vfl-osnabr%C3%BCck-2531.html,Hạng 2 Đức
+Girona,https://static.bongda24h.vn/Medias/icon/2022/12/21/girona-2112193520.png,https://bongda24h.vn/clubs/girona-1236.html,La Liga
+Real Madrid,https://static.bongda24h.vn/Medias/icon/2020/7/23/RealMadrid.png,https://bongda24h.vn/clubs/real-madrid-29.html,La Liga
+Atletico,https://static.bongda24h.vn/Medias/icon/2020/7/23/AleticoMadrid.png,https://bongda24h.vn/clubs/atletico-madrid-1390.html,La Liga
+Barcelona,https://static.bongda24h.vn/Medias/icon/2020/7/23/Barcelona.png,https://bongda24h.vn/clubs/barcelona-37.html,La Liga
+Athletic Club,https://static.bongda24h.vn/Medias/icon/2022/12/23/athletic-bilbao-2312073139.png,https://bongda24h.vn/clubs/athletic-bilbao-1634.html,La Liga
+Sociedad,https://static.bongda24h.vn/Medias/icon/Sociedad_20141014142628.png,https://bongda24h.vn/clubs/sociedad-1502.html,La Liga
+Real Betis,https://static.bongda24h.vn/Medias/icon/Betis_20141014143315.png,https://bongda24h.vn/clubs/betis-1491.html,La Liga
+Las Palmas,https://static.bongda24h.vn/Medias/icon/2022/12/24/las-palmas-2412100522.png,https://bongda24h.vn/clubs/las-palmas-1225.html,La Liga
+Getafe,https://static.bongda24h.vn/Medias/icon/2022/12/24/getafe-2412092855.png,https://bongda24h.vn/clubs/getafe-41.html,La Liga
+Vallecano,https://static.bongda24h.vn/Medias/icon/Vallecano_20141014142646.jpg,https://bongda24h.vn/clubs/rayo-vallecano-1501.html,La Liga
+Valencia,https://static.bongda24h.vn/Medias/icon/2022/12/26/valencia-2612075837.png,https://bongda24h.vn/clubs/valencia-34.html,La Liga
+Osasuna,https://static.bongda24h.vn/Medias/icon/2022/12/26/osasuna-2612072152.png,https://bongda24h.vn/clubs/osasuna-38.html,La Liga
+Alaves,https://static.bongda24h.vn/Medias/icon/2022/12/21/deportivo_alaves-2112160733.png,https://bongda24h.vn/clubs/alaves-1519.html,La Liga
+Villarreal,https://static.bongda24h.vn/Medias/icon/2022/12/21/villarreal-2112160529.png,https://bongda24h.vn/clubs/villarreal-40.html,La Liga
+Mallorca,https://static.bongda24h.vn/Medias/icon/2022/12/24/mallorca-2412105954.png,https://bongda24h.vn/clubs/mallorca-35.html,La Liga
+Sevilla,https://static.bongda24h.vn/Medias/icon/2022/12/26/sevilla-2612082836.png,https://bongda24h.vn/clubs/sevilla-27.html,La Liga
+Cadiz,https://static.bongda24h.vn/Medias/icon/2022/12/23/cadiz-2312081818.png,https://bongda24h.vn/clubs/cadiz-2549.html,La Liga
+Celta Vigo,https://static.bongda24h.vn/Medias/icon/2022/12/23/celta-vigo-2312092747.png,https://bongda24h.vn/clubs/celta-vigo-1490.html,La Liga
+Granada,https://static.bongda24h.vn/Medias/icon/2022/12/24/granada-2412094515.png,https://bongda24h.vn/clubs/granada-33.html,La Liga
+Almeria,https://static.bongda24h.vn/Medias/icon/2022/12/23/almeria-2312072444.png,https://bongda24h.vn/clubs/almeria-1434.html,La Liga
+Leganes,https://static.bongda24h.vn/Medias/icon/2022/12/24/leganes-2412101345.png,https://bongda24h.vn/clubs/leganes-1621.html,Hạng 2 Tây Ban Nha
+Valladolid,https://static.bongda24h.vn/Medias/icon/2022/12/21/real_valladolid-2112192523.png,https://bongda24h.vn/clubs/valladolid-1488.html,Hạng 2 Tây Ban Nha
+Sporting Gijon,https://static.bongda24h.vn/Medias/icon/2022/12/26/sporting_de_gijon-2612083809.png,https://bongda24h.vn/clubs/sporting-gijon-2028.html,Hạng 2 Tây Ban Nha
+Espanyol,https://static.bongda24h.vn/Medias/icon/2022/12/24/espanyol-2412091044.png,https://bongda24h.vn/clubs/espanyol-2726.html,Hạng 2 Tây Ban Nha
+Eibar,https://static.bongda24h.vn/Medias/icon/2022/12/23/eibar-2312094609.png,https://bongda24h.vn/clubs/eibar-1520.html,Hạng 2 Tây Ban Nha
+Racing de Ferrol,https://static.bongda24h.vn/Medias/icon/2023/04/14/racing-de-ferrol-1404225638.jpg,https://bongda24h.vn/clubs/racing-de-ferrol-5425.html,Hạng 2 Tây Ban Nha
+Tenerife,https://static.bongda24h.vn/Medias/icon/2022/12/26/tenerife-2612084226.png,https://bongda24h.vn/clubs/tenerife-1521.html,Hạng 2 Tây Ban Nha
+Real Oviedo,https://static.bongda24h.vn/Medias/icon/2022/12/26/real_oviedo-2612081434.png,https://bongda24h.vn/clubs/real-oviedo-2706.html,Hạng 2 Tây Ban Nha
+Racing Santander,https://static.bongda24h.vn/Medias/icon/2023/03/14/santander-1403090620.png,https://bongda24h.vn/clubs/racing-santander-2763.html,Hạng 2 Tây Ban Nha
+Elche,https://static.bongda24h.vn/Medias/icon/2022/12/23/elche_cf-2312100205.png,https://bongda24h.vn/clubs/elche-1230.html,Hạng 2 Tây Ban Nha
+Levante,https://static.bongda24h.vn/Medias/icon/2022/12/24/levante-2412101906.png,https://bongda24h.vn/clubs/levante-25.html,Hạng 2 Tây Ban Nha
+Real Zaragoza,https://static.bongda24h.vn/Medias/icon/2022/12/26/real_zaragoza-2612081932.png,https://bongda24h.vn/clubs/real-zaragoza-2728.html,Hạng 2 Tây Ban Nha
+Burgos CF,https://static.bongda24h.vn/Medias/icon/2022/12/23/burgos_cf-2312080005.png,https://bongda24h.vn/clubs/burgos-cf-2711.html,Hạng 2 Tây Ban Nha
+Mirandes,https://static.bongda24h.vn/Medias/icon/Murcia_20141014181226.jpg,https://bongda24h.vn/clubs/mirandes-1437.html,Hạng 2 Tây Ban Nha
+Albacete,https://static.bongda24h.vn/Medias/icon/2023/03/14/albacete-1403085639.png,https://bongda24h.vn/clubs/albacete-1623.html,Hạng 2 Tây Ban Nha
+Club Deportivo Eldense,https://static.bongda24h.vn/Medias/icon/2023/04/15/club-deportivo-eldense-1504232359.jpg,https://bongda24h.vn/clubs/club-deportivo-eldense-7301.html,Hạng 2 Tây Ban Nha
+FC Andorra,https://static.bongda24h.vn/Medias/icon/2023/03/14/andorra-1403090406.jpg,https://bongda24h.vn/clubs/fc-andorra-2712.html,Hạng 2 Tây Ban Nha
+Villarreal B,https://static.bongda24h.vn/Medias/icon/2023/03/14/villarreal-b-1403085821.png,https://bongda24h.vn/clubs/villarreal-b-3907.html,Hạng 2 Tây Ban Nha
+Huesca,https://static.bongda24h.vn/Medias/icon/2022/12/24/huesca-2412095838.png,https://bongda24h.vn/clubs/huesca-2013.html,Hạng 2 Tây Ban Nha
+Cartagena,https://static.bongda24h.vn/Medias/icon/2022/12/23/cartagena-2312084421.png,https://bongda24h.vn/clubs/cartagena-2759.html,Hạng 2 Tây Ban Nha
+SD Amorebieta,https://static.bongda24h.vn/Medias/icon/2022/12/23/amorebieta-2312072737.png,https://bongda24h.vn/clubs/sd-amorebieta-2729.html,Hạng 2 Tây Ban Nha
+Alcorcon,https://static.bongda24h.vn/Medias/icon/2022/12/23/alcorcon-2312071720.png,https://bongda24h.vn/clubs/alcorcon-1441.html,Hạng 2 Tây Ban Nha
+Inter,https://static.bongda24h.vn/Medias/icon/2023/04/10/logo-inter-milan-1004093333.jpg,https://bongda24h.vn/clubs/inter-milan-1399.html,Serie A
+Juventus,https://static.bongda24h.vn/Medias/icon/2023/03/23/juventus-2303153222.jpg,https://bongda24h.vn/clubs/juventus-42.html,Serie A
+AC Milan,https://static.bongda24h.vn/Medias/icon/2020/7/23/ACMiLan.png,https://bongda24h.vn/clubs/ac-milan-1467.html,Serie A
+Roma,https://static.bongda24h.vn/Medias/icon/2022/11/21/roma-2111152029.png,https://bongda24h.vn/clubs/as-roma-57.html,Serie A
+Bologna,https://static.bongda24h.vn/Medias/icon/2022/11/17/bologna-1711094216.png,https://bongda24h.vn/clubs/bologna-2016.html,Serie A
+Napoli,https://static.bongda24h.vn/Medias/icon/2020/8/12/Napoli.png,https://bongda24h.vn/clubs/napoli-58.html,Serie A
+Fiorentina,https://static.bongda24h.vn/Medias/icon/2022/11/21/fiorentina-2111152342.png,https://bongda24h.vn/clubs/fiorentina-46.html,Serie A
+Atalanta,https://static.bongda24h.vn/Medias/icon/2022/11/21/atalanta-bc-2111151920.png,https://bongda24h.vn/clubs/atalanta-43.html,Serie A
+Monza,https://static.bongda24h.vn/Medias/icon/2022/11/18/monza-1811155123.png,https://bongda24h.vn/clubs/monza-2550.html,Serie A
+Lazio,https://static.bongda24h.vn/Medias/icon/2022/11/21/lazio-2111151844.png,https://bongda24h.vn/clubs/lazio-48.html,Serie A
+Torino,https://static.bongda24h.vn/Medias/icon/2022/11/21/torino-2111152246.png,https://bongda24h.vn/clubs/torino-1150.html,Serie A
+Frosinone,https://static.bongda24h.vn/Medias/icon/2022/11/16/frosinone-1611143957.png,https://bongda24h.vn/clubs/frosinone-2017.html,Serie A
+Lecce,https://static.bongda24h.vn/Medias/icon/2019/9/6/Us_lecce.jpg,https://bongda24h.vn/clubs/lecce-2444.html,Serie A
+Genoa,https://static.bongda24h.vn/Medias/icon/2022/11/21/genoa-2111155259.png,https://bongda24h.vn/clubs/genoa-54.html,Serie A
+Sassuolo,https://static.bongda24h.vn/Medias/icon/2022/11/21/sassuolo-2111152605.png,https://bongda24h.vn/clubs/sassuolo-1259.html,Serie A
+Cagliari,https://static.bongda24h.vn/Medias/icon/2022/11/21/cagliari-2111153924.png,https://bongda24h.vn/clubs/cagliari-47.html,Serie A
+Udinese,https://static.bongda24h.vn/Medias/icon/2022/11/21/udinese-2111152121.png,https://bongda24h.vn/clubs/udinese-61.html,Serie A
+Empoli,https://static.bongda24h.vn/Medias/icon/2022/11/21/empoli_fc-2111152642.png,https://bongda24h.vn/clubs/empoli-1248.html,Serie A
+Verona,https://static.bongda24h.vn/Medias/icon/2019/9/6/HellasVerona.jpg,https://bongda24h.vn/clubs/hellas-verona-2443.html,Serie A
+Salernitana,https://static.bongda24h.vn/Medias/icon/2022/11/21/salernitana-2111152203.png,https://bongda24h.vn/clubs/salernitana-2556.html,Serie A
+Parma,https://static.bongda24h.vn/Medias/icon/2023/04/16/parma-1604111230.jpg,https://bongda24h.vn/clubs/parma-2564.html,Serie B
+Venezia,https://static.bongda24h.vn/Medias/icon/2021/8/19/venezia-fc-hd-logo.jpg,https://bongda24h.vn/clubs/venezia-2558.html,Serie B
+Como,https://static.bongda24h.vn/Medias/icon/2023/03/14/como-1403091348.png,https://bongda24h.vn/clubs/como-5452.html,Serie B
+Catanzaro,https://static.bongda24h.vn/Medias/icon/2023/04/16/catanzaro-1604113022.jpg,https://bongda24h.vn/clubs/catanzaro-2844.html,Serie B
+Cremonese,https://static.bongda24h.vn/Medias/icon/2022/11/18/cremonese-1811153722.png,https://bongda24h.vn/clubs/cremonese-2560.html,Serie B
+Cittadella,https://static.bongda24h.vn/Medias/icon/2022/11/17/cittadella-1711150155.png,https://bongda24h.vn/clubs/cittadella-2561.html,Serie B
+Palermo,https://static.bongda24h.vn/Medias/icon/Palermo_20141015125927.jpg,https://bongda24h.vn/clubs/palermo-55.html,Serie B
+Bari,https://static.bongda24h.vn/Medias/icon/2023/03/14/bari-1403091101.png,https://bongda24h.vn/clubs/bari-2850.html,Serie B
+Sampdoria,https://static.bongda24h.vn/Medias/icon/2022/11/17/sampdoria-1711100000.png,https://bongda24h.vn/clubs/sampdoria-1149.html,Serie B
+Cosenza,https://static.bongda24h.vn/Medias/icon/2022/11/18/cosenza-1811151853.png,https://bongda24h.vn/clubs/cosenza-2552.html,Serie B
+Pisa,https://static.bongda24h.vn/Medias/icon/2022/11/17/pisa-1711154045.png,https://bongda24h.vn/clubs/pisa-2563.html,Serie B
+Sudtirol,https://static.bongda24h.vn/Medias/icon/2023/03/14/sudtirol-1403091209.png,https://bongda24h.vn/clubs/sudtirol-2831.html,Serie B
+AC Reggiana,https://static.bongda24h.vn/Medias/icon/2023/04/16/ac-reggiana-1604113050.jpg,https://bongda24h.vn/clubs/ac-reggiana-2562.html,Serie B
+Spezia,https://static.bongda24h.vn/Medias/icon/2022/11/21/spezia-2111152715.png,https://bongda24h.vn/clubs/spezia-2565.html,Serie B
+Lecco,https://static.bongda24h.vn/Medias/icon/2023/08/09/lecco-0908082459.png,https://bongda24h.vn/clubs/lecco-5537.html,Serie B
+Ternana,https://static.bongda24h.vn/Medias/icon/2022/11/16/ternana-1611145440.png,https://bongda24h.vn/clubs/ternana-2833.html,Serie B
+Ascoli,https://static.bongda24h.vn/Medias/icon/2022/11/17/ascoli-1711143334.png,https://bongda24h.vn/clubs/ascoli-7688.html,Serie B
+FeralpiSalo,https://static.bongda24h.vn/Medias/icon/2023/04/16/feralpisalo-1604112956.jpg,https://bongda24h.vn/clubs/feralpisalo-2856.html,Serie B
+FC Copenhagen,https://static.bongda24h.vn/Medias/icon/2021/12/6/copenhagen.png,https://bongda24h.vn/clubs/fc-copenhagen-3718.html,Champions League
+Galatasaray,https://static.bongda24h.vn/Medias/icon/2022/12/27/galatasaray-2712135635.png,https://bongda24h.vn/clubs/galatasaray-1157.html,Champions League
+PSV,https://static.bongda24h.vn/Medias/icon/PSV_20141015110015.png,https://bongda24h.vn/clubs/psv-eindhoven-1180.html,Champions League
+Lens,https://static.bongda24h.vn/Medias/icon/2022/11/28/lens-2811110140.png,https://bongda24h.vn/clubs/lens-1195.html,Champions League
+SC Braga,https://static.bongda24h.vn/Medias/icon/2019/11/7/Braga.png,https://bongda24h.vn/clubs/sc-braga-2445.html,Champions League
+Benfica,https://static.bongda24h.vn/Medias/icon/Benfica_20141015123554.png,https://bongda24h.vn/clubs/benfica-96.html,Champions League
+FC Salzburg,https://static.bongda24h.vn/Medias/icon/2021/9/16/fc-red-bull-salzburg-hd-logo.jpg,https://bongda24h.vn/clubs/fc-salzburg-3789.html,Champions League
+Feyenoord,https://static.bongda24h.vn/Medias/icon/Feyenoord_20141015110515.jpg,https://bongda24h.vn/clubs/feyenoord-1173.html,Champions League
+Celtic,https://static.bongda24h.vn/Medias/icon/Celtic_20141015111423.jpg,https://bongda24h.vn/clubs/celtic-1158.html,Champions League
+Paris Saint-Germain,https://static.bongda24h.vn/Medias/icon/2022/11/28/psg-2811105758.png,https://bongda24h.vn/clubs/psg-104.html,Champions League
+FC Porto,https://static.bongda24h.vn/Medias/icon/2022/10/26/porto-2610095435.png,https://bongda24h.vn/clubs/porto-83.html,Champions League
+Shakhtar Donetsk,https://static.bongda24h.vn/Medias/icon/Shakhtar.png,https://bongda24h.vn/clubs/shakhtar-donetsk-1635.html,Champions League
+Royal Antwerp,https://static.bongda24h.vn/Medias/icon/2022/10/25/royal-antwerp-2510102056.png,https://bongda24h.vn/clubs/royal-antwerp-2635.html,Champions League
+Marseille,https://static.bongda24h.vn/Medias/icon/2022/11/28/marseille-2811111240.png,https://bongda24h.vn/clubs/marseille-1388.html,Europa League
+Ajax,https://static.bongda24h.vn/Medias/icon/Ajax_20141015123951.jpg,https://bongda24h.vn/clubs/ajax-91.html,Europa League
+Sporting,https://static.bongda24h.vn/Medias/icon/SportingCP_20141016094521.png,https://bongda24h.vn/clubs/sporting-cp-1327.html,Europa League
+Toulouse,https://static.bongda24h.vn/Medias/icon/2022/11/28/toulouse-2811104538.png,https://bongda24h.vn/clubs/toulouse-111.html,Europa League
+Union St.Gilloise,https://static.bongda24h.vn/Medias/icon/2023/03/14/union-sg-1403091751.png,https://bongda24h.vn/clubs/union-st.gilloise-3828.html,Europa League
+Rennes,https://static.bongda24h.vn/Medias/icon/Rennais_20141014143836.png,https://bongda24h.vn/clubs/rennais-1476.html,Europa League
+Maccabi Haifa,https://static.bongda24h.vn/Medias/icon/2022/09/06/logo-maccabi-haifa-0609140014.png,https://bongda24h.vn/clubs/maccabi-haifa-3640.html,Europa League
+Lille,https://static.bongda24h.vn/Medias/icon/2022/11/28/lille-2811134239.png,https://bongda24h.vn/clubs/lille-92.html,Europa Conference League
+Gent,https://static.bongda24h.vn/Medias/icon/2023/03/22/gent-2203105623.jpg,https://bongda24h.vn/clubs/gent-1282.html,Europa Conference League
+Viktoria Plzen,https://static.bongda24h.vn/Medias/icon/ViktoriaPlzen_20141014150434.jpg,https://bongda24h.vn/clubs/viktoria-plzen-2212.html,Europa Conference League
+Dinamo Zagreb,https://static.bongda24h.vn/Medias/icon/DinamoZagreb_20141015124102.jpg,https://bongda24h.vn/clubs/dinamo-zagreb-89.html,Europa Conference League
+Club Brugge,https://static.bongda24h.vn/Medias/icon/2020/7/27/Club-Brugge-KV.jpg,https://bongda24h.vn/clubs/club-brugge-1285.html,Europa Conference League
+Besiktas,https://static.bongda24h.vn/Medias/icon/2022/12/27/besiktas-2712092947.png,https://bongda24h.vn/clubs/besiktas-1364.html,Europa Conference League
+AZ Alkmaar,https://static.bongda24h.vn/Medias/icon/2022/11/09/az-alkmaar-0911143034.png,https://bongda24h.vn/clubs/az-alkmaar-1416.html,Europa Conference League
+Zrinjski Mostar,https://static.bongda24h.vn/Medias/icon/2022/10/27/zrinjski-mostar-2710094345.png,https://bongda24h.vn/clubs/zrinjski-mostar-4764.html,Europa Conference League
+Genk,https://static.bongda24h.vn/Medias/icon/2022/10/20/genk-2010154324.png,https://bongda24h.vn/clubs/genk-80.html,Europa Conference League
+PAOK FC,https://static.bongda24h.vn/Medias/icon/2022/11/10/paok-1011151551.png,https://bongda24h.vn/clubs/paok-fc-4647.html,Europa Conference League
+HJK Helsinki,https://static.bongda24h.vn/Medias/icon/HJKHelsinki_20141014161404.png,https://bongda24h.vn/clubs/hjk-helsinki-8445.html,Europa Conference League
+Fenerbahce,https://static.bongda24h.vn/Medias/icon/2022/12/27/fenerbahce-2712144410.png,https://bongda24h.vn/clubs/fenerbahce-1368.html,Europa Conference League
+Đức,https://static.bongda24h.vn/Medias/icon/2020/7/24/3.Duc.png,https://bongda24h.vn/clubs/dt-duc-2063.html,Euro
+Thụy Sĩ,https://static.bongda24h.vn/Medias/icon/2018/4/3/logo-thuy-si.jpg,https://bongda24h.vn/clubs/thuy-si-2051.html,Euro
+Đan Mạch,https://static.bongda24h.vn/Medias/icon/2018/4/3/logo-dan-mach.jpg,https://bongda24h.vn/clubs/dt-dan-mach-1123.html,Euro
+Anh,https://static.bongda24h.vn/Medias/icon/2020/7/24/2.-Anh.png,https://bongda24h.vn/clubs/dt-anh-2064.html,Euro
+Serbia,https://static.bongda24h.vn/Medias/icon/2018/4/3/logo-serbia.jpg,https://bongda24h.vn/clubs/serbia-1695.html,Euro
+Pháp,https://static.bongda24h.vn/Medias/icon/2020/7/24/7.Phap.png,https://bongda24h.vn/clubs/dt-phap-2050.html,Euro
+Hà Lan,https://static.bongda24h.vn/Medias/icon/2019/7/16/lo-go-doi-tuyen-ha-lan.jpg,https://bongda24h.vn/clubs/dt-ha-lan-1122.html,Euro
+Bỉ,https://static.bongda24h.vn/Medias/icon/2020/7/24/1.Bi.png,https://bongda24h.vn/clubs/dt-bi-2065.html,Euro
+Bồ Đào Nha,https://static.bongda24h.vn/Medias/icon/2022/09/23/flag_of_portugalsvg-2309134229.png,https://bongda24h.vn/clubs/dt-bo-dao-nha-2054.html,Euro
+Rosenborg,https://static.bongda24h.vn/Medias/icon/2022/11/21/rosenborg-2111103250.png,https://bongda24h.vn/clubs/rosenborg-2220.html,VĐQG Na Uy
+HNK Gorica,https://static.bongda24h.vn/Medias/icon/2022/11/04/hnk-gorica-0411092013.png,https://bongda24h.vn/clubs/hnk-gorica-4198.html,VĐQG Croatia
+Osijek,https://static.bongda24h.vn/Medias/icon/2022/11/04/osijek-0411081035.png,https://bongda24h.vn/clubs/osijek-2290.html,VĐQG Croatia
+Slaven,https://static.bongda24h.vn/Medias/icon/2023/03/14/slaven-1403151421.png,https://bongda24h.vn/clubs/slaven-3888.html,VĐQG Croatia
+Ararat Armenia,https://static.bongda24h.vn/Medias/icon/2023/03/17/ararat-armenia-1703112019.jpg,https://bongda24h.vn/clubs/ararat-armenia-4043.html,VĐQG Armenia
+Ararat Yerevan,https://static.bongda24h.vn/Medias/icon/2022/10/03/ararat-yerevan-0310110513.png,https://bongda24h.vn/clubs/ararat-yerevan-7661.html,VĐQG Armenia
+Omonia Nicosia,https://static.bongda24h.vn/Medias/icon/2022/09/06/logo-omonia-nicosia-0609140903.png,https://bongda24h.vn/clubs/omonia-nicosia-2636.html,VĐQG Cyprus
+Anorthosis,https://static.bongda24h.vn/Medias/icon/2022/11/04/anorthosis-0411151344.png,https://bongda24h.vn/clubs/anorthosis-5029.html,VĐQG Cyprus
+OB,https://static.bongda24h.vn/Medias/icon/2022/11/07/odense_boldklub-ob-0711101341.png,https://bongda24h.vn/clubs/odense-boldklub-3839.html,VĐQG Đan Mạch
+Flora Tallinn U21,https://static.bongda24h.vn/Medias/icon/2022/11/05/flora-tallinn-0511151239.png,https://bongda24h.vn/clubs/flora-tallinn-u21-5100.html,Hạng 2 Estonia
+FCI Levadia U21,https://static.bongda24h.vn/Medias/icon/2022/11/05/fci-levadia-0511150952.png,https://bongda24h.vn/clubs/fci-levadia-u21-5098.html,Hạng 2 Estonia
+Paide Linnameeskond U21,https://static.bongda24h.vn/Medias/icon/2022/11/06/paide-linnameeskond-u21-0611093318.png,https://bongda24h.vn/clubs/paide-linnameeskond-u21-5097.html,Hạng 2 Estonia
+St. Gallen,https://static.bongda24h.vn/Medias/icon/2023/01/12/st-gallen-1201153037.png,https://bongda24h.vn/clubs/st.-gallen-3801.html,VĐQG Thụy Sĩ
+HB Torshavn,https://static.bongda24h.vn/Medias/icon/2023/03/15/hb-torshavn-1503110724.png,https://bongda24h.vn/clubs/hb-torshavn-3726.html,VĐQG Faroe Islands
+B36 Torshavn,https://static.bongda24h.vn/Medias/icon/2022/11/08/b36-torshavn-0811150635.png,https://bongda24h.vn/clubs/b36-torshavn-2341.html,VĐQG Faroe Islands
+Fehervar FC,https://static.bongda24h.vn/Medias/icon/2022/11/10/fehervar-fc-1011105521.png,https://bongda24h.vn/clubs/fehervar-fc-3659.html,VĐQG Hungary
+Vikingur Reykjavik,https://static.bongda24h.vn/Medias/icon/2022/11/16/vikingur-reykjavik-1611141855.png,https://bongda24h.vn/clubs/vikingur-reykjavik-5053.html,VĐQG Iceland
+Zaglebie Lubin,https://static.bongda24h.vn/Medias/icon/2021/11/29/zaglebie-lubin.png,https://bongda24h.vn/clubs/zaglebie-lubin-4388.html,VĐQG Ba Lan
+Radomiak Radom,https://static.bongda24h.vn/Medias/icon/2021/11/29/radomiak-radom.png,https://bongda24h.vn/clubs/radomiak-radom-3995.html,VĐQG Ba Lan
+Widzew Lodz,https://static.bongda24h.vn/Medias/icon/2022/10/18/widzew-lodz-1810100507.png,https://bongda24h.vn/clubs/widzew-lodz-3865.html,VĐQG Ba Lan
+Korona Kielce,https://static.bongda24h.vn/Medias/icon/2022/10/14/korona-kielce-1410155059.png,https://bongda24h.vn/clubs/korona-kielce-4698.html,VĐQG Ba Lan
+Miedz Legnica,https://static.bongda24h.vn/Medias/icon/2022/10/18/miedz-legnica-1810092422.png,https://bongda24h.vn/clubs/miedz-legnica-4699.html,Hạng 2 Ba Lan
+Gornik Leczna,https://static.bongda24h.vn/Medias/icon/2021/11/29/gornik-leczna.png,https://bongda24h.vn/clubs/gornik-leczna-5840.html,Hạng 2 Ba Lan
+Resovia,https://static.bongda24h.vn/Medias/icon/2022/10/14/resovia-1410152506.png,https://bongda24h.vn/clubs/resovia-5847.html,Hạng 2 Ba Lan
+Aris,https://static.bongda24h.vn/Medias/icon/2022/11/10/aris-1011143336.png,https://bongda24h.vn/clubs/aris-3708.html,VĐQG Hy Lạp
+Borac Banja Luka,https://static.bongda24h.vn/Medias/icon/2022/10/25/borac-banja-luka-2510141828.png,https://bongda24h.vn/clubs/borac-banja-luka-3631.html,VĐQG Bosnia
+Nice,https://static.bongda24h.vn/Medias/icon/2022/11/28/nice-2811135747.png,https://bongda24h.vn/clubs/nice-105.html,Ligue 1
+Monaco,https://static.bongda24h.vn/Medias/icon/2022/11/28/as-monaco-2811133451.png,https://bongda24h.vn/clubs/monaco-1204.html,Ligue 1
+Brest,https://static.bongda24h.vn/Medias/icon/Brest_20141015123106.jpg,https://bongda24h.vn/clubs/brest-101.html,Ligue 1
+Reims,https://static.bongda24h.vn/Medias/icon/2022/11/28/reims-2811141331.png,https://bongda24h.vn/clubs/reims-1137.html,Ligue 1
+Nantes,https://static.bongda24h.vn/Medias/icon/2022/11/28/nantes-2811144324.png,https://bongda24h.vn/clubs/nantes-1192.html,Ligue 1
+Strasbourg,https://static.bongda24h.vn/Medias/icon/2022/11/28/strasbourg-2811144714.png,https://bongda24h.vn/clubs/strasbourg-2271.html,Ligue 1
+Le Havre,https://static.bongda24h.vn/Medias/icon/2023/08/22/le-havre-2208110526.jpg,https://bongda24h.vn/clubs/le-havre-1206.html,Ligue 1
+Metz,https://static.bongda24h.vn/Medias/icon/2022/11/28/metz-2811150737.png,https://bongda24h.vn/clubs/metz-1513.html,Ligue 1
+Montpellier,https://static.bongda24h.vn/Medias/icon/2022/11/28/montpellier-2811143720.png,https://bongda24h.vn/clubs/montpellier-99.html,Ligue 1
+Lyon,https://static.bongda24h.vn/Medias/icon/2022/11/28/lyon-2811134800.png,https://bongda24h.vn/clubs/lyon-1397.html,Ligue 1
+Lorient,https://static.bongda24h.vn/Medias/icon/2022/11/28/lorient-2811133831.png,https://bongda24h.vn/clubs/lorient-103.html,Ligue 1
+Clermont Foot,https://static.bongda24h.vn/Medias/icon/Clermont_20141015104300.png,https://bongda24h.vn/clubs/clermont-1198.html,Ligue 1
+Angers,https://static.bongda24h.vn/Medias/icon/2022/11/28/angers-2811145431.png,https://bongda24h.vn/clubs/angers-1197.html,Ligue 2
+Laval,https://static.bongda24h.vn/Medias/icon/2023/03/16/laval-1603104855.jpg,https://bongda24h.vn/clubs/laval-1200.html,Ligue 2
+Auxerre,https://static.bongda24h.vn/Medias/icon/2022/11/28/auxerre-2811095942.png,https://bongda24h.vn/clubs/auxerre-98.html,Ligue 2
+Pau,https://static.bongda24h.vn/Medias/icon/2022/06/27/73_2706143905.png,https://bongda24h.vn/clubs/pau-fc-2522.html,Ligue 2
+Grenoble,https://static.bongda24h.vn/Medias/icon/2022/11/22/grenoble_foot-2211151445.png,https://bongda24h.vn/clubs/grenoble-2521.html,Ligue 2
+Guingamp,https://static.bongda24h.vn/Medias/icon/2022/11/28/guingamp-2811083731.png,https://bongda24h.vn/clubs/guingamp-1193.html,Ligue 2
+AC Ajaccio,https://static.bongda24h.vn/Medias/icon/2022/08/09/AC_Ajaccio_logo.svg_0908112157.png,https://bongda24h.vn/clubs/ac-ajaccio-2517.html,Ligue 2
+Saint-Etienne,https://static.bongda24h.vn/Medias/icon/St.Etienne_20141014143821.png,https://bongda24h.vn/clubs/st.etienne-1478.html,Ligue 2
+Rodez,https://static.bongda24h.vn/Medias/icon/2022/11/28/rodez-2811095530.png,https://bongda24h.vn/clubs/rodez-2520.html,Ligue 2
+Paris FC,https://static.bongda24h.vn/Medias/icon/2022/11/28/paris-2811085400.png,https://bongda24h.vn/clubs/paris-fc-2519.html,Ligue 2
+Amiens,https://static.bongda24h.vn/Medias/icon/2022/11/22/amiens_sc-2211153308.png,https://bongda24h.vn/clubs/amiens-2270.html,Ligue 2
+Caen,https://static.bongda24h.vn/Medias/icon/2022/11/28/caen-2811084145.png,https://bongda24h.vn/clubs/caen-114.html,Ligue 2
+SC Bastia,https://static.bongda24h.vn/Medias/icon/2022/11/28/bastia-2811090119.png,https://bongda24h.vn/clubs/bastia-1138.html,Ligue 2
+Troyes,https://static.bongda24h.vn/Medias/icon/2022/11/28/troyes-2811142148.png,https://bongda24h.vn/clubs/troyes-1139.html,Ligue 2
+FC Annecy,https://static.bongda24h.vn/Medias/icon/2023/03/16/fc-annecy-1603104348.png,https://bongda24h.vn/clubs/fc-annecy-7075.html,Ligue 2
+Concarneau,https://static.bongda24h.vn/Medias/icon/2023/05/29/concarneau-2905152233.jpg,https://bongda24h.vn/clubs/concarneau-4572.html,Ligue 2
+Bordeaux,https://static.bongda24h.vn/Medias/icon/2022/11/28/bordeaux-2811145822.png,https://bongda24h.vn/clubs/bordeaux-109.html,Ligue 2
+Quevilly,https://static.bongda24h.vn/Medias/icon/2022/11/28/quevilly-2811092605.png,https://bongda24h.vn/clubs/quevilly-3012.html,Ligue 2
+Dunkerque,https://static.bongda24h.vn/Medias/icon/2022/11/28/dunkerque-2811102430.png,https://bongda24h.vn/clubs/dunkerque-2516.html,Ligue 2
+Valenciennes,https://static.bongda24h.vn/Medias/icon/2022/11/22/valenciennes-2211152745.png,https://bongda24h.vn/clubs/valenciennes-113.html,Ligue 2
+Japan Women,https://static.bongda24h.vn/Medias/icon/2019/5/4/logo-nhat-ban-copa-american-2019.png,https://bongda24h.vn/clubs/nhat-ban-2161.html,Nữ Asiad
+Nữ Philippines,https://static.bongda24h.vn/Medias/icon/2018/11/5/logo-dt-philippines.png,https://bongda24h.vn/clubs/ponte-preta-3543.html,Nữ Đông Nam Á
+Nữ Malaysia,https://static.bongda24h.vn/Medias/icon/2018/11/5/logo-dt-malaysia.png,https://bongda24h.vn/clubs/goias-esporte-3545.html,Nữ Đông Nam Á
+Nữ Indonesia,https://static.bongda24h.vn/Medias/icon/2018/11/5/logo-dt-indonesia.png,https://bongda24h.vn/clubs/cuiaba-3546.html,Nữ Đông Nam Á
+Nữ Myanmar,https://static.bongda24h.vn/Medias/icon/2018/11/5/logo-dt-myanmar.png,https://bongda24h.vn/clubs/sampaio-correa-3544.html,Nữ Đông Nam Á
+U23 Việt Nam,https://static.bongda24h.vn/Medias/icon/2018/7/30/logo-u23-viet-nam.jpg,https://bongda24h.vn/clubs/u23-viet-nam-2298.html,U23 Dubai Cup
+Australia Women,https://static.bongda24h.vn/Medias/icon/2018/12/24/logo-dt-australia.png,https://bongda24h.vn/clubs/australia-2189.html,Nữ Châu Á Asian Cup
+Qatar,https://static.bongda24h.vn/Medias/icon/2019/5/4/logo-qatar-copa-american-2019.png,https://bongda24h.vn/clubs/qatar-2176.html,Asian cup
+Iran,https://static.bongda24h.vn/Medias/icon/2018/12/24/logo-dt-iran.png,https://bongda24h.vn/clubs/iran-2169.html,Asian cup
+Nhật Bản,https://static.bongda24h.vn/Medias/icon/2019/5/4/logo-nhat-ban-copa-american-2019.png,https://bongda24h.vn/clubs/nhat-ban-2161.html,Asian cup
+Hàn Quốc,https://static.bongda24h.vn/Medias/icon/2018/12/24/logo-dt-han-quoc.png,https://bongda24h.vn/clubs/han-quoc-2153.html,Asian cup
+Ả Rập Xê-út,https://static.bongda24h.vn/Medias/icon/2018/12/24/logo-dt-a-rap-xe-ut.png,https://bongda24h.vn/clubs/saudi-arabia-2188.html,Asian cup
+Al Feiha,https://static.bongda24h.vn/Medias/icon/2023/03/17/al-feiha-1703134432.png,https://bongda24h.vn/clubs/al-feiha-5279.html,AFC Champions League
+Al Ittihad,https://static.bongda24h.vn/Medias/icon/2022/09/22/al-ittihad-al-sakandary-2209104023.png,https://bongda24h.vn/clubs/al-ittihad-8498.html,AFC Champions League
+Al Hilal,https://static.bongda24h.vn/Medias/icon/2023/03/16/300500056_10166273120705543_1861851647508377296_n-1603132338.jpg,https://bongda24h.vn/clubs/al-hilal-2655.html,AFC Champions League
+Al Nassr FC,https://static.bongda24h.vn/Medias/icon/2023/03/02/al-nassr-0203103950.jpg,https://bongda24h.vn/clubs/al-nassr-2674.html,AFC Champions League
+Jeonbuk FC,https://static.bongda24h.vn/Medias/icon/2022/11/09/jeonbuk-motors-0911210422.png,https://bongda24h.vn/clubs/jeonbuk-2657.html,AFC Champions League
+Yokohama F.Marinos,https://static.bongda24h.vn/Medias/icon/2022/11/23/yokohama-marinos-2311154954.png,https://bongda24h.vn/clubs/yokohama-marinos-2658.html,AFC Champions League
+Shandong Taishan,https://static.bongda24h.vn/Medias/icon/2022/1/25/shandong-luneng-taishan.png,https://bongda24h.vn/clubs/shandong-taishan-3288.html,AFC Champions League
+Incheon United,https://static.bongda24h.vn/Medias/icon/2022/11/09/incheon-united-0911211404.png,https://bongda24h.vn/clubs/incheon-united-3435.html,AFC Champions League
+Melbourne City FC,https://static.bongda24h.vn/Medias/icon/2022/09/29/melbourne-city-2909202820.png,https://bongda24h.vn/clubs/melbourne-city-7349.html,AFC Champions League
+Zhejiang Professional,https://static.bongda24h.vn/Medias/icon/2023/02/03/zhejianglucheng-0302103849.png,https://bongda24h.vn/clubs/zhejiang-professional-7616.html,AFC Champions League
+Kawasaki Frontale,https://static.bongda24h.vn/Medias/icon/2022/11/23/kawasaki-2311155600.png,https://bongda24h.vn/clubs/kawasaki-frontale-3238.html,AFC Champions League
+Ulsan Hyundai,https://static.bongda24h.vn/Medias/icon/2022/11/09/ulsan_hyundai-0911205638.png,https://bongda24h.vn/clubs/ulsan-hyundai-2665.html,AFC Champions League
+Pohang Steelers,https://static.bongda24h.vn/Medias/icon/2022/11/09/pohang-steelers-0911210936.png,https://bongda24h.vn/clubs/pohang-steelers-3434.html,AFC Champions League
+Urawa Red Diamonds,https://static.bongda24h.vn/Medias/icon/2022/11/23/urawareds-2311173730.png,https://bongda24h.vn/clubs/urawa-red--3369.html,AFC Champions League
+Wuhan Three Towns,https://static.bongda24h.vn/Medias/icon/2023/02/03/wuhan-three-towns-0302105939.png,https://bongda24h.vn/clubs/wuhan-three-towns-7617.html,AFC Champions League
+Macarthur FC,https://static.bongda24h.vn/Medias/icon/2023/05/31/macarthur-fc-3105104942.jpg,https://bongda24h.vn/clubs/macarthur-7342.html,AFC Cup
+Central Coast Mariners,https://static.bongda24h.vn/Medias/icon/2022/09/29/central-coast-mariners-2909211812.png,https://bongda24h.vn/clubs/central-coast-mariners-7336.html,AFC Cup
+Bali United,https://static.bongda24h.vn/Medias/icon/2023/03/16/bali-united-1603152120.png,https://bongda24h.vn/clubs/bali-united-7721.html,AFC Cup
+PSM Makassar,https://static.bongda24h.vn/Medias/icon/2022/11/10/psm-makassar-1011151641.png,https://bongda24h.vn/clubs/psm-makassar-5802.html,AFC Cup
+Chiangrai United,https://static.bongda24h.vn/Medias/icon/2019/6/19/logo-chiangrai-united.jpg,https://bongda24h.vn/clubs/chiangrai-2391.html,Thai League
+Borneo FC Samarinda,https://static.bongda24h.vn/Medias/icon/2022/11/10/borneo-fc-1011142108.png,https://bongda24h.vn/clubs/borneo-7714.html,VĐQG Indonesia
+Persib Bandung,https://static.bongda24h.vn/Medias/icon/2022/11/10/persib-bandung-1011143842.png,https://bongda24h.vn/clubs/persib-bandung-5810.html,VĐQG Indonesia
+PSIS Semarang,https://static.bongda24h.vn/Medias/icon/2022/11/10/psis-1011151213.png,https://bongda24h.vn/clubs/psis-semarang-7725.html,VĐQG Indonesia
+Madura United,https://static.bongda24h.vn/Medias/icon/2022/11/10/madura-united-1011134439.png,https://bongda24h.vn/clubs/madura-5821.html,VĐQG Indonesia
+Persik Kediri,https://static.bongda24h.vn/Medias/icon/2022/11/10/persik-1011145237.png,https://bongda24h.vn/clubs/persik-kediri-7724.html,VĐQG Indonesia
+RANS Nusantara,https://static.bongda24h.vn/Medias/icon/2023/03/17/rans-nusantara-1703091449.png,https://bongda24h.vn/clubs/rans-nusantara-9622.html,VĐQG Indonesia
+Persija Jakarta,https://static.bongda24h.vn/Medias/icon/2022/11/10/persija-jakarta-1011144720.png,https://bongda24h.vn/clubs/persija-jakarta-5806.html,VĐQG Indonesia
+Barito Putera,https://static.bongda24h.vn/Medias/icon/2022/11/10/barito-putera-1011140617.png,https://bongda24h.vn/clubs/barito-putera-5811.html,VĐQG Indonesia
+Dewa United,https://static.bongda24h.vn/Medias/icon/2023/03/17/dewa-united-1703091425.png,https://bongda24h.vn/clubs/dewa-4262.html,VĐQG Indonesia
+PSS Sleman,https://static.bongda24h.vn/Medias/icon/2022/11/10/pss-sleman-1011152729.png,https://bongda24h.vn/clubs/pss-sleman-5805.html,VĐQG Indonesia
+Persita Tangerang,https://static.bongda24h.vn/Medias/icon/2023/03/17/persita-tangerang-1703091132.png,https://bongda24h.vn/clubs/persita-tangerang-7722.html,VĐQG Indonesia
+Persebaya Surabaya,https://static.bongda24h.vn/Medias/icon/2022/11/10/persebaya-surabaya-1011142658.png,https://bongda24h.vn/clubs/persebaya-surabaya-4457.html,VĐQG Indonesia
+Persis Solo,https://static.bongda24h.vn/Medias/icon/2023/03/17/persis-solo-1703091235.png,https://bongda24h.vn/clubs/persis-solo-9623.html,VĐQG Indonesia
+Persikabo 1973,https://static.bongda24h.vn/Medias/icon/2023/03/17/persikabo-1973-1703091259.png,https://bongda24h.vn/clubs/persikabo-7723.html,VĐQG Indonesia
+Bhayangkara FC,https://static.bongda24h.vn/Medias/icon/2022/11/10/bhayangkara-fc-1011141406.png,https://bongda24h.vn/clubs/bhayangkara-5794.html,VĐQG Indonesia
+Western Sydney Wanderers FC,https://static.bongda24h.vn/Medias/icon/2022/09/30/western-sydney-wanderers-fc-3009100119.png,https://bongda24h.vn/clubs/western-sydney-wanderers-7338.html,VĐQG Australia
+Melbourne Victory,https://static.bongda24h.vn/Medias/icon/2022/09/29/melbourne-victory-2909204718.png,https://bongda24h.vn/clubs/melbourne-victory-2669.html,VĐQG Australia
+Brisbane Roar FC,https://static.bongda24h.vn/Medias/icon/2022/09/30/brisbane-roar-fc-3009101543.png,https://bongda24h.vn/clubs/brisbane-roar-7350.html,VĐQG Australia
+Wellington Phoenix,https://static.bongda24h.vn/Medias/icon/2022/09/29/wellington-phoenix-2909212824.png,https://bongda24h.vn/clubs/wellington-phoenix-7486.html,VĐQG Australia
+Adelaide United,https://static.bongda24h.vn/Medias/icon/2022/09/29/adelaide-united-2909210917.png,https://bongda24h.vn/clubs/adelaide-united-7355.html,VĐQG Australia
+Newcastle Jets,https://static.bongda24h.vn/Medias/icon/2022/09/30/newcastle-jets-3009094343.png,https://bongda24h.vn/clubs/newcastle-jets-7485.html,VĐQG Australia
+Perth Glory,https://static.bongda24h.vn/Medias/icon/2022/09/30/perth-glory-3009102116.png,https://bongda24h.vn/clubs/perth-glory-2667.html,VĐQG Australia
+Sydney FC,https://static.bongda24h.vn/Medias/icon/2022/09/30/sydney-fc-3009092701.png,https://bongda24h.vn/clubs/sydney-football-club-2659.html,VĐQG Australia
+Western United FC,https://static.bongda24h.vn/Medias/icon/2022/09/29/western-united-fc-2909205905.png,https://bongda24h.vn/clubs/western-united-7484.html,VĐQG Australia
+Shanghai Port,https://static.bongda24h.vn/Medias/icon/2022/1/25/shanghai_port_fc.png,https://bongda24h.vn/clubs/shanghai-port-3298.html,China Super League
+Chengdu Rongcheng,https://static.bongda24h.vn/Medias/icon/2023/01/30/chengdu-3001090042.png,https://bongda24h.vn/clubs/chengdu-rongcheng-7618.html,China Super League
+Shanghai Shenhua,https://static.bongda24h.vn/Medias/icon/2022/1/25/shanghai-shenhua.png,https://bongda24h.vn/clubs/shanghai-shenhua-2668.html,China Super League
+Beijing Guoan,https://static.bongda24h.vn/Medias/icon/2022/1/25/beijing-guoan.png,https://bongda24h.vn/clubs/beijing-guoan-2671.html,China Super League
+Tianjin Jinmen Tiger,https://static.bongda24h.vn/Medias/icon/2022/1/25/tianjin-jinmen-tiger.png,https://bongda24h.vn/clubs/tianjin-jinmen-3297.html,China Super League
+Changchun Yatai,https://static.bongda24h.vn/Medias/icon/2023/01/30/changchun-yatai-3001085234.png,https://bongda24h.vn/clubs/changchun-yatai-3296.html,China Super League
+Henan Songshan Longmen,https://static.bongda24h.vn/Medias/icon/2022/1/25/henan-songshan-longmen.png,https://bongda24h.vn/clubs/henan-songshan-3293.html,China Super League
+Meizhou Hakka,https://static.bongda24h.vn/Medias/icon/2023/02/01/meizhou_hakka-0102093939.png,https://bongda24h.vn/clubs/meizhou-hakka-8355.html,China Super League
+Cangzhou Mighty Lions,https://static.bongda24h.vn/Medias/icon/2022/1/25/cangzhou-mighty-lions.png,https://bongda24h.vn/clubs/cangzhou-mighty-3292.html,China Super League
+Qingdao Hainiu,https://static.bongda24h.vn/Medias/icon/2023/03/17/qingdao-hainiu-1703102603.jpg,https://bongda24h.vn/clubs/qingdao-hainiu-7719.html,China Super League
+Nantong Zhiyun FC,https://static.bongda24h.vn/Medias/icon/2023/02/01/nantong_zhiyun-0102094626.png,https://bongda24h.vn/clubs/nantong-zhiyun-7574.html,China Super League
+Dalian Pro,https://static.bongda24h.vn/Medias/icon/2022/1/25/dalian-pro.png,https://bongda24h.vn/clubs/dalian-pro-3295.html,China Super League
+Shenzhen FC,https://static.bongda24h.vn/Medias/icon/2022/1/25/shenzhen_fc.png,https://bongda24h.vn/clubs/shenzhen-3294.html,China Super League
+Senegal,https://static.bongda24h.vn/Medias/icon/2022/09/23/se-2309103849.png,https://bongda24h.vn/clubs/senegal-2164.html,CHAN Cup
+Ghana,https://static.bongda24h.vn/Medias/icon/2019/6/19/094205-Ghana.jpg,https://bongda24h.vn/clubs/ghana-2159.html,CHAN Cup
+Ma rốc,https://static.bongda24h.vn/Medias/icon/2018/4/3/logo-ma-roc.jpg,https://bongda24h.vn/clubs/morocco-2173.html,CHAN Cup
+Cameroon,https://static.bongda24h.vn/Medias/icon/2017/6/12/icon-cameroon-12-06.jpg,https://bongda24h.vn/clubs/cameroon-2182.html,CHAN Cup
+Ai Cập,https://static.bongda24h.vn/Medias/icon/2020/7/24/4.Egypt.png,https://bongda24h.vn/clubs/egypt-2158.html,Can Cup
+Tunisia,https://static.bongda24h.vn/Medias/icon/2018/4/3/logo-tunisia.jpg,https://bongda24h.vn/clubs/tunisia-2198.html,Can Cup
+Al Ahly,https://static.bongda24h.vn/Medias/icon/2022/06/10/Al-Ahly_1006160605.png,https://bongda24h.vn/clubs/al-ahly-3155.html,VĐQG Ai Cập
+Argentina,https://static.bongda24h.vn/Medias/icon/2020/7/24/9.-Argentina.png,https://bongda24h.vn/clubs/argentina-1989.html,Copa America
+Ecuador,https://static.bongda24h.vn/Medias/icon/2019/5/4/logo-ecuador-copa-american-2019.png,https://bongda24h.vn/clubs/ecuador-1984.html,Copa America
+Mexico,https://static.bongda24h.vn/Medias/icon/2018/4/3/logo-mexico.jpg,https://bongda24h.vn/clubs/mexico-1985.html,Copa America
+Mỹ,https://static.bongda24h.vn/Medias/icon/2019/6/19/112119-logo-my.jpg,https://bongda24h.vn/clubs/my-2083.html,Copa America
+Uruguay,https://static.bongda24h.vn/Medias/icon/2020/7/24/Uruguay.png,https://bongda24h.vn/clubs/uruguay-1987.html,Copa America
+Brazil,https://static.bongda24h.vn/Medias/icon/2020/7/24/8.-Brazil.png,https://bongda24h.vn/clubs/brazil-1993.html,Copa America
+Costa Rica,https://static.bongda24h.vn/Medias/icon/2018/4/3/logo-costa-rica.jpg,https://bongda24h.vn/clubs/costa-rica-2084.html,Gold Cup
+Canada,https://static.bongda24h.vn/Medias/icon/2019/6/18/logo-canada.jpg,https://bongda24h.vn/clubs/canada-2206.html,Gold Cup
+Philadelphia Union,https://static.bongda24h.vn/Medias/icon/2022/11/21/philadelphia-2111170541.png,https://bongda24h.vn/clubs/philadelphia-union-7028.html,Concacaf League Cup
+Queretaro FC,https://static.bongda24h.vn/Medias/icon/2022/11/18/queretaro-1811151812.png,https://bongda24h.vn/clubs/queretaro-fc-4765.html,Concacaf League Cup
+Tijuana,https://static.bongda24h.vn/Medias/icon/2022/11/18/tijuana-1811153548.png,https://bongda24h.vn/clubs/tijuana-4761.html,Concacaf League Cup
+Pumas,https://static.bongda24h.vn/Medias/icon/2023/03/20/pumas-2003145309.png,https://bongda24h.vn/clubs/pumas-4534.html,Concacaf League Cup
+DC United,https://static.bongda24h.vn/Medias/icon/2022/11/23/dc-united-2311100114.png,https://bongda24h.vn/clubs/dc-united-4816.html,Concacaf League Cup
+CF Montreal,https://static.bongda24h.vn/Medias/icon/2023/03/20/cf-montreal-2003095404.png,https://bongda24h.vn/clubs/cf-montreal-6202.html,Concacaf League Cup
+New York City FC,https://static.bongda24h.vn/Medias/icon/2022/11/22/new_york_city-2211143941.png,https://bongda24h.vn/clubs/new-york-city-7017.html,Concacaf League Cup
+Toronto FC,https://static.bongda24h.vn/Medias/icon/2023/03/20/toronto-fc-2003095340.png,https://bongda24h.vn/clubs/toronto-fc-6365.html,Concacaf League Cup
+New York Red Bulls,https://static.bongda24h.vn/Medias/icon/2022/11/22/newyork_red_bulls-2211144456.png,https://bongda24h.vn/clubs/new-york-red-bulls-7020.html,Concacaf League Cup
+New England Revolution,https://static.bongda24h.vn/Medias/icon/2023/03/20/new-england-revolution-2003095126.png,https://bongda24h.vn/clubs/new-england-revolution-7023.html,Concacaf League Cup
+Austin FC,https://static.bongda24h.vn/Medias/icon/2022/11/22/austin-2211143131.png,https://bongda24h.vn/clubs/austin-7016.html,Concacaf League Cup
+Orlando City,https://static.bongda24h.vn/Medias/icon/2022/11/22/orlando-city-2211170556.png,https://bongda24h.vn/clubs/orlando-7013.html,Concacaf League Cup
+Houston Dynamo,https://static.bongda24h.vn/Medias/icon/2022/11/23/houston_dynamo-2311095506.png,https://bongda24h.vn/clubs/houston-dynamo-7009.html,Concacaf League Cup
+Inter Miami CF,https://static.bongda24h.vn/Medias/icon/2022/11/22/inter-miami-2211164659.png,https://bongda24h.vn/clubs/inter-miami-7026.html,Concacaf League Cup
+Atlanta United,https://static.bongda24h.vn/Medias/icon/2022/11/23/atlantaunited-2311094235.png,https://bongda24h.vn/clubs/atlanta-united-7014.html,Concacaf League Cup
+Charlotte,https://static.bongda24h.vn/Medias/icon/2023/03/20/charlotte-2003095441.png,https://bongda24h.vn/clubs/charlotte-7961.html,Concacaf League Cup
+FC Dallas,https://static.bongda24h.vn/Medias/icon/2022/11/22/dallas-fc-2211145133.png,https://bongda24h.vn/clubs/dallas-7018.html,Concacaf League Cup
+Portland Timbers,https://static.bongda24h.vn/Medias/icon/2022/11/23/portland_timbers-2311091327.png,https://bongda24h.vn/clubs/portland-timbers-7029.html,Concacaf League Cup
+San Jose Earthquakes,https://static.bongda24h.vn/Medias/icon/2023/03/20/san-jose-earthquakes-2003095256.png,https://bongda24h.vn/clubs/san-jose-earthquakes-7010.html,Concacaf League Cup
+Real Salt Lake,https://static.bongda24h.vn/Medias/icon/2017/7/16/Real_Salt_Lake_2010.svg.png,https://bongda24h.vn/clubs/real-salt-lake-2268.html,Concacaf League Cup
+Seattle Sounders FC,https://static.bongda24h.vn/Medias/icon/2023/03/20/seattle-sounders-fc-2003095201.png,https://bongda24h.vn/clubs/seattle-sounders-7011.html,Concacaf League Cup
+Vancouver Whitecaps,https://static.bongda24h.vn/Medias/icon/2023/03/20/vancouver-whitecaps-2003095539.png,https://bongda24h.vn/clubs/vancouver-whitecaps-6198.html,Concacaf League Cup
+LA Galaxy,https://static.bongda24h.vn/Medias/icon/2022/11/22/la_galaxy-2-2211154516.png,https://bongda24h.vn/clubs/la-galaxy-2267.html,Concacaf League Cup
+Columbus Crew,https://static.bongda24h.vn/Medias/icon/2022/11/23/columbus-crew-2311092204.png,https://bongda24h.vn/clubs/columbus-crew-7027.html,Concacaf League Cup
+Chicago Fire,https://static.bongda24h.vn/Medias/icon/2023/03/20/chicago-fire-2003095507.png,https://bongda24h.vn/clubs/chicago-fire-7022.html,Concacaf League Cup
+Minnesota United,https://static.bongda24h.vn/Medias/icon/2022/11/22/minnesota-2211161131.png,https://bongda24h.vn/clubs/minnesota-7012.html,Concacaf League Cup
+FC Cincinnati,https://static.bongda24h.vn/Medias/icon/2022/11/22/cincinnati-2211160646.png,https://bongda24h.vn/clubs/cincinnati-7025.html,Concacaf League Cup
+Sporting Kansas City,https://static.bongda24h.vn/Medias/icon/2023/03/20/sporting-kansas-city-2003095609.png,https://bongda24h.vn/clubs/sporting-kansas-7021.html,Concacaf League Cup
+Nashville SC,https://static.bongda24h.vn/Medias/icon/2022/11/22/nashville-2211155647.png,https://bongda24h.vn/clubs/nashville-7024.html,Concacaf League Cup
+Colorado Rapids,https://static.bongda24h.vn/Medias/icon/2022/11/23/colorado_rapids-2311092848.png,https://bongda24h.vn/clubs/colorado-rapids-7019.html,Concacaf League Cup
+Flamengo,https://static.bongda24h.vn/Medias/icon/2022/10/27/flamengo-2710135656.png,https://bongda24h.vn/clubs/flamengo-3556.html,Copa Libertadores
+Internacional,https://static.bongda24h.vn/Medias/icon/2022/10/27/internacional-2710143439.png,https://bongda24h.vn/clubs/internacional-3563.html,Copa Libertadores
+Independiente Medellin,https://static.bongda24h.vn/Medias/icon/2022/11/03/inde-medellin-0311150620.png,https://bongda24h.vn/clubs/deportivo-independiente-medellin-6770.html,Copa Libertadores
+Palmeiras,https://static.bongda24h.vn/Medias/icon/2022/10/27/palmeiras-2710134852.png,https://bongda24h.vn/clubs/palmeiras-3156.html,Copa Libertadores
+Fluminense,https://static.bongda24h.vn/Medias/icon/2022/10/27/fluminense-2710144755.png,https://bongda24h.vn/clubs/fluminense-3551.html,Copa Libertadores
+Corinthians,https://static.bongda24h.vn/Medias/icon/2022/10/27/corinthians-2710144141.png,https://bongda24h.vn/clubs/corinthians-3561.html,Copa Libertadores
+Athletico Paranaense,https://static.bongda24h.vn/Medias/icon/2022/10/27/athletico-paranaense-2710145123.png,https://bongda24h.vn/clubs/paranaense-3557.html,Copa Libertadores
+Atletico Nacional,https://static.bongda24h.vn/Medias/icon/2022/11/04/atletico-nacional-0411152253.png,https://bongda24h.vn/clubs/club-atletico-nacional-s.-a.-5303.html,Copa Libertadores
+Botafogo FR,https://static.bongda24h.vn/Medias/icon/2023/03/22/botafogo-fr-2203152241.jpg,https://bongda24h.vn/clubs/botafogo-rj-3533.html,Copa Sudamericana
+Guarani,https://static.bongda24h.vn/Medias/icon/2022/10/26/guarani_fc-2610135624.png,https://bongda24h.vn/clubs/guarani-3528.html,Copa Sudamericana
+Bragantino,https://static.bongda24h.vn/Medias/icon/2022/10/28/bragantino-2810154634.png,https://bongda24h.vn/clubs/rb-bragantino-3560.html,Copa Sudamericana
+Sao Paulo,https://static.bongda24h.vn/Medias/icon/2022/10/27/sao_paulo-2710154332.png,https://bongda24h.vn/clubs/sao-paulo-3550.html,Copa Sudamericana
+Tolima,https://static.bongda24h.vn/Medias/icon/2022/11/04/tolima-0411173234.png,https://bongda24h.vn/clubs/club-deportes-tolima-s.a.-6785.html,Copa Sudamericana
+Santos FC,https://static.bongda24h.vn/Medias/icon/2023/03/22/santos-fc-2203152319.jpg,https://bongda24h.vn/clubs/santos-fc-3549.html,Copa Sudamericana
+America MG,https://static.bongda24h.vn/Medias/icon/2022/10/28/america-mineiro-2810151751.png,https://bongda24h.vn/clubs/america-mineiro-3558.html,Copa Sudamericana
+Millonarios,https://static.bongda24h.vn/Medias/icon/2022/11/03/millonarios-0311152356.png,https://bongda24h.vn/clubs/%09azul-y-blanco-millonarios-futbol-club-s.a.-4904.html,Copa Sudamericana
+Goias,https://static.bongda24h.vn/Medias/icon/2022/10/27/goias_esporte-2710111758.png,https://bongda24h.vn/clubs/goias-esporte-3545.html,Copa Sudamericana
+Santa Fe,https://static.bongda24h.vn/Medias/icon/2023/03/20/santa-fe-2003134142.png,https://bongda24h.vn/clubs/club-independiente-santa-fe-6778.html,Copa Sudamericana
+Fortaleza,https://static.bongda24h.vn/Medias/icon/2022/10/28/fortaleza-2810153556.png,https://bongda24h.vn/clubs/fortaleza-3553.html,Copa Sudamericana
+LD Alajuelense,https://static.bongda24h.vn/Medias/icon/2022/11/04/ld-alajuelense-0411092624.png,https://bongda24h.vn/clubs/ld-alajuelense-4984.html,VĐQG Costa Rica
+Club Sport Herediano,https://static.bongda24h.vn/Medias/icon/2022/11/04/club-sport-herediano-0411094753.png,https://bongda24h.vn/clubs/club-sport-herediano-4981.html,VĐQG Costa Rica
+C.S. Cartagines,https://static.bongda24h.vn/Medias/icon/2022/11/04/cs-cartagines-0411095058.png,https://bongda24h.vn/clubs/c.s.-cartagines-4988.html,VĐQG Costa Rica
+Guanacasteca,https://static.bongda24h.vn/Medias/icon/2022/11/04/guanacasteca-0411105147.png,https://bongda24h.vn/clubs/guanacasteca-4992.html,VĐQG Costa Rica
+Deportiva San Carlos,https://static.bongda24h.vn/Medias/icon/2022/11/04/deportiva-san-carlos-0411100510.png,https://bongda24h.vn/clubs/deportiva-san-carlos-4983.html,VĐQG Costa Rica
+Sporting San Jose,https://static.bongda24h.vn/Medias/icon/2023/03/20/sporting-san-jose-2003133002.png,https://bongda24h.vn/clubs/sporting-san-jose-4991.html,VĐQG Costa Rica
+Santos de Guapiles,https://static.bongda24h.vn/Medias/icon/2022/11/04/santos-de-guapiles-0411103402.png,https://bongda24h.vn/clubs/santos-de-guapiles-4986.html,VĐQG Costa Rica
+Grecia,https://static.bongda24h.vn/Medias/icon/2022/11/04/municipal_grecia-0411110020.png,https://bongda24h.vn/clubs/municipal-grecia-4987.html,VĐQG Costa Rica
+America de Cali,https://static.bongda24h.vn/Medias/icon/2022/11/04/america_de_cali-0411150711.png,https://bongda24h.vn/clubs/america-de-cali-3651.html,VĐQG Colombia
+Atletico Junior,https://static.bongda24h.vn/Medias/icon/2022/11/04/junior-0411151602.png,https://bongda24h.vn/clubs/atletico-junior-3653.html,VĐQG Colombia
+Deportivo Cali,https://static.bongda24h.vn/Medias/icon/2022/11/04/deportivo-cali-0411193542.png,https://bongda24h.vn/clubs/deportivo-cali-6782.html,VĐQG Colombia
+Alianza Petrolera,https://static.bongda24h.vn/Medias/icon/2022/11/04/alianza-petrolera-0411192833.png,https://bongda24h.vn/clubs/alianza-petrolera-6793.html,VĐQG Colombia
+La Equidad,https://static.bongda24h.vn/Medias/icon/2022/11/04/la-equidad-0411164618.png,https://bongda24h.vn/clubs/club-deportivo-la-equidad-seguros-s.a.-6774.html,VĐQG Colombia
+Bucaramanga,https://static.bongda24h.vn/Medias/icon/2022/11/04/bucaramanga-0411160017.png,https://bongda24h.vn/clubs/club-atletico-bucaramanga-s.a.-6790.html,VĐQG Colombia
+Once Caldas,https://static.bongda24h.vn/Medias/icon/2022/11/04/once_caldas-0411153052.png,https://bongda24h.vn/clubs/once-caldas-s.a.-6786.html,VĐQG Colombia
+CD Jaguares,https://static.bongda24h.vn/Medias/icon/2022/11/04/jaguares-cordoba-0411180036.png,https://bongda24h.vn/clubs/jaguares-de-cordoba-futbol-club-6783.html,VĐQG Colombia
+Envigado,https://static.bongda24h.vn/Medias/icon/2022/11/04/envigado-fc-0411174541.png,https://bongda24h.vn/clubs/envigado-futbol-club-s.a.-6767.html,VĐQG Colombia
+Patriotas,https://static.bongda24h.vn/Medias/icon/2022/11/04/patriotas-0411202801.png,https://bongda24h.vn/clubs/patriotas-boyaca-s.a.-6799.html,Hạng 2 Colombia
+Deportes Quindio,https://static.bongda24h.vn/Medias/icon/2022/11/04/quindio-0411210226.png,https://bongda24h.vn/clubs/deportes-quindio-7364.html,Hạng 2 Colombia
+Canada Women,https://static.bongda24h.vn/Medias/icon/2019/6/18/logo-canada.jpg,https://bongda24h.vn/clubs/canada-2206.html,World Cup Nữ
+Netherlands Women,https://static.bongda24h.vn/Medias/icon/2019/7/16/lo-go-doi-tuyen-ha-lan.jpg,https://bongda24h.vn/clubs/dt-ha-lan-1122.html,World Cup Nữ
+USA Women,https://static.bongda24h.vn/Medias/icon/2019/6/19/112119-logo-my.jpg,https://bongda24h.vn/clubs/my-2083.html,World Cup Nữ
+Brazil Women,https://static.bongda24h.vn/Medias/icon/2020/7/24/8.-Brazil.png,https://bongda24h.vn/clubs/brazil-1993.html,World Cup Nữ
+Australia,https://static.bongda24h.vn/Medias/icon/2018/12/24/logo-dt-australia.png,https://bongda24h.vn/clubs/australia-2189.html,Vòng loại World Cup khu vực Châu Á
+Tây Ban Nha,https://static.bongda24h.vn/Medias/icon/2020/7/24/5.Tay-Ban-Nha.png,https://bongda24h.vn/clubs/dt-tay-ban-nha-2060.html,Vòng loại World Cup khu vực Châu Âu
+Italy,https://static.bongda24h.vn/Medias/icon/2016/6/7/italia.jpg,https://bongda24h.vn/clubs/dt-italia-2057.html,Vòng loại World Cup khu vực Châu Âu
+Ukraine,https://static.bongda24h.vn/Medias/icon/2016/6/7/ukraina.jpg,https://bongda24h.vn/clubs/ukraine-141.html,Vòng loại World Cup khu vực Châu Âu
+Wales,https://static.bongda24h.vn/Medias/icon/2016/6/7/wales.jpg,https://bongda24h.vn/clubs/wales-1663.html,Vòng loại World Cup khu vực Châu Âu
+Croatia,https://static.bongda24h.vn/Medias/icon/2018/4/3/logo-croatia.jpg,https://bongda24h.vn/clubs/croatia-146.html,Vòng loại World Cup khu vực Châu Âu
+Nga,https://static.bongda24h.vn/Medias/icon/2020/7/24/6.-Nga.png,https://bongda24h.vn/clubs/dt-nga-2052.html,Vòng loại World Cup khu vực Châu Âu
+Ba Lan,https://static.bongda24h.vn/Medias/icon/2018/4/3/logo-ba-lan.jpg,https://bongda24h.vn/clubs/ba-lan-2061.html,Vòng loại World Cup khu vực Châu Âu
+FC Twente,https://static.bongda24h.vn/Medias/icon/Twente_20141015110119.gif,https://bongda24h.vn/clubs/twente-1179.html,VĐQG Hà Lan
+Go Ahead Eagles,https://static.bongda24h.vn/Medias/icon/2022/11/10/go_ahead_eagles-1011092700.png,https://bongda24h.vn/clubs/go-ahead-eagles-1510.html,VĐQG Hà Lan
+Sparta Rotterdam,https://static.bongda24h.vn/Medias/icon/2022/11/09/sparta_rotterdam-0911142410.png,https://bongda24h.vn/clubs/sparta-rotterdam-3485.html,VĐQG Hà Lan
+NEC Nijmegen,https://static.bongda24h.vn/Medias/icon/2022/11/09/nec_nijmegen-0911153243.png,https://bongda24h.vn/clubs/nec-nijmegen-2000.html,VĐQG Hà Lan
+SC Heerenveen,https://static.bongda24h.vn/Medias/icon/Heerenveen_20141015110153.png,https://bongda24h.vn/clubs/heerenveen-1176.html,VĐQG Hà Lan
+Fortuna Sittard,https://static.bongda24h.vn/Medias/icon/2022/11/10/fortuna_sittard-1011104646.png,https://bongda24h.vn/clubs/fortuna-sittard-3484.html,VĐQG Hà Lan
+Excelsior,https://static.bongda24h.vn/Medias/icon/Excelsior_20141014164412.png,https://bongda24h.vn/clubs/excelsior-1610.html,VĐQG Hà Lan
+FC Utrecht,https://static.bongda24h.vn/Medias/icon/2022/11/09/utrecht-0911145100.png,https://bongda24h.vn/clubs/utrecht-1181.html,VĐQG Hà Lan
+Heracles,https://static.bongda24h.vn/Medias/icon/2022/11/09/heracles-0911152254.png,https://bongda24h.vn/clubs/heracles-1182.html,VĐQG Hà Lan
+RKC Waalwijk,https://static.bongda24h.vn/Medias/icon/2022/11/10/waalwijk-1011092527.png,https://bongda24h.vn/clubs/waalwijk-3483.html,VĐQG Hà Lan
+Almere City FC,https://static.bongda24h.vn/Medias/icon/2021/12/6/almere-city.png,https://bongda24h.vn/clubs/almere-city-3498.html,VĐQG Hà Lan
+Vitesse,https://static.bongda24h.vn/Medias/icon/2022/11/09/vitesse-0911154127.png,https://bongda24h.vn/clubs/vitesse-1188.html,VĐQG Hà Lan
+FC Volendam,https://static.bongda24h.vn/Medias/icon/2021/12/6/volendam.png,https://bongda24h.vn/clubs/volendam-3491.html,VĐQG Hà Lan
+Kayserispor,https://static.bongda24h.vn/Medias/icon/2022/12/28/kayserispor-2812093335.png,https://bongda24h.vn/clubs/kayserispor-2021.html,VĐQG Thổ Nhĩ Kỳ
+Trabzonspor,https://static.bongda24h.vn/Medias/icon/2022/12/28/trabzonspor-fc-2812143054.png,https://bongda24h.vn/clubs/trabzonspor-93.html,VĐQG Thổ Nhĩ Kỳ
+Adana Demirspor,https://static.bongda24h.vn/Medias/icon/2022/12/26/andala-demirs-2612144216.png,https://bongda24h.vn/clubs/adana-demirspor-3752.html,VĐQG Thổ Nhĩ Kỳ
+Antalyaspor,https://static.bongda24h.vn/Medias/icon/2022/12/27/antalyaspor-2712085647.png,https://bongda24h.vn/clubs/antalyaspor-2020.html,VĐQG Thổ Nhĩ Kỳ
+Rizespor,https://static.bongda24h.vn/Medias/icon/2022/12/28/rizespor-2812141423.png,https://bongda24h.vn/clubs/rizespor-1527.html,VĐQG Thổ Nhĩ Kỳ
+Kasimpasa,https://static.bongda24h.vn/Medias/icon/2022/12/28/kasimpasa-2812092601.png,https://bongda24h.vn/clubs/kasimpasa-1370.html,VĐQG Thổ Nhĩ Kỳ
+Hatayspor,https://static.bongda24h.vn/Medias/icon/2022/12/28/hatayspor-2812090020.png,https://bongda24h.vn/clubs/hatayspor-3758.html,VĐQG Thổ Nhĩ Kỳ
+Ankaragucu,https://static.bongda24h.vn/Medias/icon/2021/12/7/ankaragucu.png,https://bongda24h.vn/clubs/ankaragucu-5764.html,VĐQG Thổ Nhĩ Kỳ
+Sivasspor,https://static.bongda24h.vn/Medias/icon/Sivasspor_20141015091019.png,https://bongda24h.vn/clubs/sivasspor-1299.html,VĐQG Thổ Nhĩ Kỳ
+Fatih Karagumruk,https://static.bongda24h.vn/Medias/icon/2022/12/27/fatih-karagumruk-2712134837.png,https://bongda24h.vn/clubs/fatih-karagumruk-3755.html,VĐQG Thổ Nhĩ Kỳ
+Istanbul Basaksehir,https://static.bongda24h.vn/Medias/icon/IstanbulBB_20141014151151.png,https://bongda24h.vn/clubs/basaksehir-1369.html,VĐQG Thổ Nhĩ Kỳ
+Gaziantep FK,https://static.bongda24h.vn/Medias/icon/2022/12/27/gazisehir_gaziantep-2712145314.png,https://bongda24h.vn/clubs/gaziantep-3756.html,VĐQG Thổ Nhĩ Kỳ
+Konyaspor,https://static.bongda24h.vn/Medias/icon/2022/12/28/konyaspor-2812135801.png,https://bongda24h.vn/clubs/konyaspor-1528.html,VĐQG Thổ Nhĩ Kỳ
+Samsunspor,https://static.bongda24h.vn/Medias/icon/2022/12/28/samsunspor-2812141734.png,https://bongda24h.vn/clubs/samsunspor-4867.html,VĐQG Thổ Nhĩ Kỳ
+Alanyaspor,https://static.bongda24h.vn/Medias/icon/2022/12/26/alanyaspor-2612134122.png,https://bongda24h.vn/clubs/alanyaspor-3759.html,VĐQG Thổ Nhĩ Kỳ
+Pendikspor,https://static.bongda24h.vn/Medias/icon/2023/03/22/pendikspor-2203094318.jpg,https://bongda24h.vn/clubs/pendikspor-7589.html,VĐQG Thổ Nhĩ Kỳ
+Istanbulspor,https://static.bongda24h.vn/Medias/icon/2021/12/7/istanbulspor.png,https://bongda24h.vn/clubs/istanbulspor-4732.html,VĐQG Thổ Nhĩ Kỳ
+Famalicao,https://static.bongda24h.vn/Medias/icon/2022/10/26/famalicao-2610090945.png,https://bongda24h.vn/clubs/famalicao-3743.html,VĐQG Bồ Đào Nha
+Portimonense,https://static.bongda24h.vn/Medias/icon/2022/10/26/portimonense-2610095109.png,https://bongda24h.vn/clubs/portimonense-3745.html,VĐQG Bồ Đào Nha
+Santa Clara,https://static.bongda24h.vn/Medias/icon/2022/10/26/santa-clara-2610100528.png,https://bongda24h.vn/clubs/santa-clara-3727.html,Hạng 2 Bồ Đào Nha
+Pacos de Ferreira,https://static.bongda24h.vn/Medias/icon/2022/10/26/pacos-de-ferreira-2610094138.png,https://bongda24h.vn/clubs/pacos-de-ferreira-3742.html,Hạng 2 Bồ Đào Nha
+Los Angeles FC,https://static.bongda24h.vn/Medias/icon/2022/11/21/los_angeles-2111160828.png,https://bongda24h.vn/clubs/los-angeles-7015.html,MLS Nhà Nghề Mỹ
+Anderlecht,https://static.bongda24h.vn/Medias/icon/2022/10/20/anderlecht-2010153653.png,https://bongda24h.vn/clubs/anderlecht-1153.html,VĐQG Bỉ
+Cercle Brugge,https://static.bongda24h.vn/Medias/icon/2023/03/22/cercle-brugge-2203110116.png,https://bongda24h.vn/clubs/cercle-brugge-4447.html,VĐQG Bỉ
+St.Truiden,https://static.bongda24h.vn/Medias/icon/2023/03/22/sttruiden-2203105708.jpg,https://bongda24h.vn/clubs/st.truiden-4338.html,VĐQG Bỉ
+Standard Liege,https://static.bongda24h.vn/Medias/icon/StandardLiege_20141014151453.jpg,https://bongda24h.vn/clubs/standard-liege-1360.html,VĐQG Bỉ
+KV Mechelen,https://static.bongda24h.vn/Medias/icon/Mechelen_20141015091734.jpg,https://bongda24h.vn/clubs/mechelen-1294.html,VĐQG Bỉ
+Eupen,https://static.bongda24h.vn/Medias/icon/2022/10/25/kas-eupen-2510093151.png,https://bongda24h.vn/clubs/eupen-4468.html,VĐQG Bỉ
+Oud-Heverlee Leuven,https://static.bongda24h.vn/Medias/icon/2023/03/22/oud-heverlee-leuven-2203105547.jpg,https://bongda24h.vn/clubs/leuven-4305.html,VĐQG Bỉ
+Kortrijk,https://static.bongda24h.vn/Medias/icon/Kortrijk_20141015091935.jpg,https://bongda24h.vn/clubs/kortrijk-1292.html,VĐQG Bỉ
+Deinze,https://static.bongda24h.vn/Medias/icon/2022/10/20/deinze-2010133621.png,https://bongda24h.vn/clubs/deinze-4566.html,Hạng 2 Bỉ
+Lierse K.,https://static.bongda24h.vn/Medias/icon/2022/10/20/lierse-kempenzonen-2010134506.png,https://bongda24h.vn/clubs/lierse-kempenzonen-3797.html,Hạng 2 Bỉ
+St. Johnstone,https://static.bongda24h.vn/Medias/icon/2023/03/22/st-johnstone-2203132242.jpg,https://bongda24h.vn/clubs/st.-johnstone-3739.html,VĐQG Scotland
+Gremio,https://static.bongda24h.vn/Medias/icon/2022/10/29/gremio-logo-2910152609.png,https://bongda24h.vn/clubs/gremio-3555.html,VĐQG Brazil
+Cuiaba,https://static.bongda24h.vn/Medias/icon/2022/10/28/cuiaba-2810160901.png,https://bongda24h.vn/clubs/cuiaba-3546.html,VĐQG Brazil
+Cruzeiro,https://static.bongda24h.vn/Medias/icon/2022/10/26/cruzeiro-2610103511.png,https://bongda24h.vn/clubs/cruzeiro-3539.html,VĐQG Brazil
+Vasco da Gama,https://static.bongda24h.vn/Medias/icon/2022/10/26/vasco_da_gama-2610104609.png,https://bongda24h.vn/clubs/vasco-da-gama-3534.html,VĐQG Brazil
+Bahia,https://static.bongda24h.vn/Medias/icon/2022/10/29/bahia-2910151545.png,https://bongda24h.vn/clubs/bahia-3548.html,VĐQG Brazil
+Coritiba,https://static.bongda24h.vn/Medias/icon/2022/10/27/coritiba-2710115128.png,https://bongda24h.vn/clubs/coritiba-3540.html,VĐQG Brazil
+Vitoria,https://static.bongda24h.vn/Medias/icon/2022/10/27/vitoria-2710104706.png,https://bongda24h.vn/clubs/vitoria-3529.html,Hạng 2 Brazil
+Juventude,https://static.bongda24h.vn/Medias/icon/2022/10/29/juventude-brazil-2910151047.png,https://bongda24h.vn/clubs/juventude-3547.html,Hạng 2 Brazil
+Atletico GO,https://static.bongda24h.vn/Medias/icon/2022/10/28/atletico_goianiense-2810160552.png,https://bongda24h.vn/clubs/atletico-go-3562.html,Hạng 2 Brazil
+Novorizontino,https://static.bongda24h.vn/Medias/icon/2023/03/22/novorizontino-2203153452.jpg,https://bongda24h.vn/clubs/novorizontino-8020.html,Hạng 2 Brazil
+Sport Recife,https://static.bongda24h.vn/Medias/icon/2022/10/29/sport_club_recife-2910153047.png,https://bongda24h.vn/clubs/sport-recife-3564.html,Hạng 2 Brazil
+Vila Nova,https://static.bongda24h.vn/Medias/icon/2022/10/27/vila_nova-2710094414.png,https://bongda24h.vn/clubs/vila-nova-3532.html,Hạng 2 Brazil
+CRB,https://static.bongda24h.vn/Medias/icon/2022/10/26/crb-2610134825.png,https://bongda24h.vn/clubs/crb-3536.html,Hạng 2 Brazil
+Ceara,https://static.bongda24h.vn/Medias/icon/2022/10/28/ceara-2810155756.png,https://bongda24h.vn/clubs/ceara-3554.html,Hạng 2 Brazil
+Ituano FC,https://static.bongda24h.vn/Medias/icon/2023/03/22/ituano-fc-2203153337.jpg,https://bongda24h.vn/clubs/ituano-fc-8028.html,Hạng 2 Brazil
+Ponte Preta,https://static.bongda24h.vn/Medias/icon/2022/10/27/ponte-preta-2710095113.png,https://bongda24h.vn/clubs/ponte-preta-3543.html,Hạng 2 Brazil
+Chapecoense AF,https://static.bongda24h.vn/Medias/icon/2022/10/29/chapecoense-2910152100.png,https://bongda24h.vn/clubs/chapecoense-af-3559.html,Hạng 2 Brazil
+Sampaio Correa,https://static.bongda24h.vn/Medias/icon/2022/10/26/sampaio-2610134413.png,https://bongda24h.vn/clubs/sampaio-correa-3544.html,Hạng 2 Brazil
+Vissel Kobe,https://static.bongda24h.vn/Medias/icon/2022/11/24/vissel-kobe-2411094550.png,https://bongda24h.vn/clubs/vissel-kobe-2661.html,J League 1
+Sanfrecce Hiroshima,https://static.bongda24h.vn/Medias/icon/2022/11/23/sanfrecce-hiroshima-2311160621.png,https://bongda24h.vn/clubs/sanfrecce-hiroshima-3374.html,J League 1
+Kashima Antlers,https://static.bongda24h.vn/Medias/icon/2022/11/23/kashima-2311163931.png,https://bongda24h.vn/clubs/kashima-antlers-3376.html,J League 1
+Nagoya Grampus Eight,https://static.bongda24h.vn/Medias/icon/2022/11/23/nagoya-grampus-2311170937.png,https://bongda24h.vn/clubs/nagoya-grampus-3240.html,J League 1
+Avispa Fukuoka,https://static.bongda24h.vn/Medias/icon/2022/11/24/avispa-fukuoka-2411095341.png,https://bongda24h.vn/clubs/avispa-fukuoka-3382.html,J League 1
+Cerezo Osaka,https://static.bongda24h.vn/Medias/icon/2022/11/23/cerezo-2311164446.png,https://bongda24h.vn/clubs/cerezo-osaka-3380.html,J League 1
+Albirex Niigata,https://static.bongda24h.vn/Medias/icon/2022/1/25/albirex-niigata.png,https://bongda24h.vn/clubs/albirex-niigata-3348.html,J League 1
+FC Tokyo,https://static.bongda24h.vn/Medias/icon/2022/11/23/tokyo-2311165339.png,https://bongda24h.vn/clubs/fc-tokyo-2666.html,J League 1
+Consadole Sapporo,https://static.bongda24h.vn/Medias/icon/2022/11/24/consadole-sapporo-2411092106.png,https://bongda24h.vn/clubs/consadole-sapporo-3366.html,J League 1
+Kyoto Sanga FC,https://static.bongda24h.vn/Medias/icon/2022/11/23/kyoto_sanga-2311150033.png,https://bongda24h.vn/clubs/kyoto-sanga-3352.html,J League 1
+Sagan Tosu,https://static.bongda24h.vn/Medias/icon/2022/11/24/sagan-tosu-2411092938.png,https://bongda24h.vn/clubs/sagan-tosu-3379.html,J League 1
+Shonan Bellmare,https://static.bongda24h.vn/Medias/icon/2022/11/24/shonan-bellmare-2411093614.png,https://bongda24h.vn/clubs/shonan-bellmare-3378.html,J League 1
+Gamba Osaka,https://static.bongda24h.vn/Medias/icon/2023/03/23/gamba-osaka-2303103931.jpg,https://bongda24h.vn/clubs/gamba-osaka-3236.html,J League 1
+Kashiwa Reysol,https://static.bongda24h.vn/Medias/icon/2022/11/23/kashiwa-2311170326.png,https://bongda24h.vn/clubs/kashiwa-reysol-3381.html,J League 1
+Yokohama FC,https://static.bongda24h.vn/Medias/icon/2022/11/24/yokohama-2411104605.png,https://bongda24h.vn/clubs/yokohama-fc-3368.html,J League 1
+Gwangju FC,https://static.bongda24h.vn/Medias/icon/2022/11/16/gwangju-1611152351.png,https://bongda24h.vn/clubs/gwangju-3436.html,K League 1
+Daegu FC,https://static.bongda24h.vn/Medias/icon/2022/11/09/daegu-0911214520.png,https://bongda24h.vn/clubs/daegu-3432.html,K League 1
+FC Seoul,https://static.bongda24h.vn/Medias/icon/2022/11/09/seoul-0911213928.png,https://bongda24h.vn/clubs/fc-seoul-2670.html,K League 1
+Daejeon Citizen,https://static.bongda24h.vn/Medias/icon/2023/03/23/daejeon-citizen-2303110653.jpg,https://bongda24h.vn/clubs/daejeon-citizen-3466.html,K League 1
+Jeju United,https://static.bongda24h.vn/Medias/icon/2022/11/09/jeju_united-0911212103.png,https://bongda24h.vn/clubs/jeju-united-3439.html,K League 1
+Suwon FC,https://static.bongda24h.vn/Medias/icon/2022/11/09/suwon-city-0911213431.png,https://bongda24h.vn/clubs/suwon-fc-3433.html,K League 1
+Gangwon FC,https://static.bongda24h.vn/Medias/icon/2022/11/09/gangwon-0911212613.png,https://bongda24h.vn/clubs/gangwon-fc-3437.html,K League 1
+Suwon Bluewings,https://static.bongda24h.vn/Medias/icon/2022/11/16/suwon-bluewings-1611150211.png,https://bongda24h.vn/clubs/suwon-bluewings-2663.html,K League 1
+Bucheon FC 1995,https://static.bongda24h.vn/Medias/icon/2022/11/09/bucheon-0911155856.png,https://bongda24h.vn/clubs/bucheon-fc-1995-3465.html,K League 2
+Jeonnam Dragons,https://static.bongda24h.vn/Medias/icon/2023/03/16/jeonnam-dragons-1603141539.png,https://bongda24h.vn/clubs/jeonnam-dragons-3463.html,K League 2
+Seoul E-Land FC,https://static.bongda24h.vn/Medias/icon/2022/11/09/seoul_e-land-0911201946.png,https://bongda24h.vn/clubs/seoul-e-land-fc-3468.html,K League 2
+Ansan Greeners,https://static.bongda24h.vn/Medias/icon/2022/11/09/ansan-greeners-0911202531.png,https://bongda24h.vn/clubs/ansan-greeners-3461.html,K League 2
+Al Ahli,https://static.bongda24h.vn/Medias/icon/2023/03/17/al-ahli-1703141201.jpg,https://bongda24h.vn/clubs/al-ahli-2650.html,VĐQG Saudi Arabia
+Al Taawoun,https://static.bongda24h.vn/Medias/icon/2023/03/16/al-taawoun-1603135925.png,https://bongda24h.vn/clubs/al-taawoun-2677.html,VĐQG Saudi Arabia
+Damac FC,https://static.bongda24h.vn/Medias/icon/2023/03/17/damac-fc-1703133631.png,https://bongda24h.vn/clubs/damac-9977.html,VĐQG Saudi Arabia
+Al Fateh FC,https://static.bongda24h.vn/Medias/icon/2023/03/17/al-fateh-fc-1703133452.png,https://bongda24h.vn/clubs/al-fateh-4891.html,VĐQG Saudi Arabia
+Al Ettifaq,https://static.bongda24h.vn/Medias/icon/2023/03/17/al-ettifaq-1703134334.jpg,https://bongda24h.vn/clubs/al-ettifaq-4870.html,VĐQG Saudi Arabia
+Al Wehda,https://static.bongda24h.vn/Medias/icon/2023/03/17/al-wehdat-1703134800.jpg,https://bongda24h.vn/clubs/al-wehda-9384.html,VĐQG Saudi Arabia
+Al Shabab,https://static.bongda24h.vn/Medias/icon/2023/03/16/al-shabab-1603133248.jpg,https://bongda24h.vn/clubs/al-shabab-8167.html,VĐQG Saudi Arabia
+Al Tai,https://static.bongda24h.vn/Medias/icon/2023/03/17/al-taee-1703133845.png,https://bongda24h.vn/clubs/al-taee-9980.html,VĐQG Saudi Arabia
+Al Khaleej,https://static.bongda24h.vn/Medias/icon/2023/03/17/al-adalh-1703135038.jpg,https://bongda24h.vn/clubs/al-khaleej-9978.html,VĐQG Saudi Arabia
+Al Akhdoud,https://static.bongda24h.vn/Medias/icon/2023/03/17/al-akhdoud-1703141934.jpg,https://bongda24h.vn/clubs/al-akhdoud-9973.html,VĐQG Saudi Arabia
+Al Riyadh,https://static.bongda24h.vn/Medias/icon/2023/03/17/al-riyadh-1703142046.jpg,https://bongda24h.vn/clubs/al-riyadh-9974.html,VĐQG Saudi Arabia
+Abha,https://static.bongda24h.vn/Medias/icon/2023/03/17/abha-1703134642.jpg,https://bongda24h.vn/clubs/abha-9982.html,VĐQG Saudi Arabia
+Al Raed,https://static.bongda24h.vn/Medias/icon/2023/03/17/al-raed-1703134118.png,https://bongda24h.vn/clubs/al-raed-9983.html,VĐQG Saudi Arabia
+Al Hazm,https://static.bongda24h.vn/Medias/icon/2023/03/17/al-hazm-1703140613.png,https://bongda24h.vn/clubs/al-hazm-9205.html,VĐQG Saudi Arabia
+Al Adalh,https://static.bongda24h.vn/Medias/icon/2023/03/17/al-adalh-1703135347.jpg,https://bongda24h.vn/clubs/al-adalh-9979.html,Hạng 2 Saudi Arabia
+Al Batin,https://static.bongda24h.vn/Medias/icon/2023/03/17/al-batin-1703135435.png,https://bongda24h.vn/clubs/al-batin-9981.html,Hạng 2 Saudi Arabia
+France,,https://bongda24h.vn/clubs/dt-phap-2050.html,World Cup
+Belgium,,https://bongda24h.vn/clubs/dt-bi-2065.html,World Cup
+Netherlands,,https://bongda24h.vn/clubs/dt-ha-lan-1122.html,World Cup
+Portugal,,https://bongda24h.vn/clubs/dt-bo-dao-nha-2054.html,World Cup
+Spain,,https://bongda24h.vn/clubs/sporting-gijon-2028.html,World Cup
+Morocco,,https://bongda24h.vn/clubs/morocco-2173.html,World Cup
+Germany,,https://bongda24h.vn/clubs/dt-duc-2063.html,World Cup
+Thuỵ Sĩ,,https://bongda24h.vn/clubs/thuy-si-2051.html,World Cup
+Denmark,,https://bongda24h.vn/clubs/dan-mach-1123.html,World Cup
+Russia,,https://bongda24h.vn/clubs/dt-nga-2052.html,World Cup
+United Arab Emirates,,https://bongda24h.vn/clubs/saudi-arabia-2188.html,World Cup
+Bosnia và Herzegovina,,https://bongda24h.vn/clubs/borac-banja-luka-3631.html,World Cup
+Việt Nam,,https://bongda24h.vn/doi-tuyen-viet-nam-c292-p1.html,World Cup
+Belize,,https://bongda24h.vn/clubs/hjk-helsinki-8445.html,World Cup
+America,,https://bongda24h.vn/clubs/my-2083.html,World Cup
