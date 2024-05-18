@@ -104,7 +104,11 @@ async def get_next_match_club(query):
                     'home': event['T1'][0]['Nm'],
                     'away': event['T2'][0]['Nm'],
                     'time': parse_date_to_utc(str(event['Esd'])),
-                    'results':'No data found'
+'club_logo': (team_result.get('pageProps', {})
+                              .get('initialData', {})
+                              .get('basicInfo', {})
+                              .get('badge', {})
+                              .get('high', {})),                    'results':'No data found'
                 }
                 team_data['upcoming_match']=event_data
         if not team_data['upcoming_match']:
@@ -116,7 +120,11 @@ async def get_next_match_club(query):
                         'home': event['T1'][0]['Nm'],
                         'away': event['T2'][0]['Nm'],
                         'time': parse_date_to_utc(str(event['Esd'])),
-                        'results':{
+                        'club_logo': (team_result.get('pageProps', {})
+                              .get('initialData', {})
+                              .get('basicInfo', {})
+                              .get('badge', {})
+                              .get('high', {})),                            'results':{
                              'Tr1': event.get('Tr1', 'N/A'),
                                 'Tr2': event.get('Tr2', 'N/A'),
                         }
