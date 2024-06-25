@@ -21,7 +21,8 @@ headers = {
 def parse_date_to_utc(date_string):
     naive_datetime = datetime.strptime(date_string, "%Y%m%d%H%M%S")
     
-    tz = pytz.timezone('Asia/Ho_Chi_Minh')
+    # tz = pytz.timezone('Asia/Ho_Chi_Minh')
+    tz = pytz.utc
     
     local_datetime = tz.localize(naive_datetime)
     
@@ -103,7 +104,7 @@ async def get_next_match_club(query):
                     'label': events['Snm'],
                     'home': event['T1'][0]['Nm'],
                     'away': event['T2'][0]['Nm'],
-                    'time': parse_date_to_utc(str(event['Esd'])),
+                    'time': event['Esd'],
 'club_logo': (team_result.get('pageProps', {})
                               .get('initialData', {})
                               .get('basicInfo', {})
@@ -119,7 +120,7 @@ async def get_next_match_club(query):
                         'label': events['Snm'],
                         'home': event['T1'][0]['Nm'],
                         'away': event['T2'][0]['Nm'],
-                        'time': parse_date_to_utc(str(event['Esd'])),
+                        'time': event['Esd'],
                         'club_logo': (team_result.get('pageProps', {})
                               .get('initialData', {})
                               .get('basicInfo', {})
